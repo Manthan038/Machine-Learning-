@@ -1,0 +1,3973 @@
+,labels
+0,Physics
+1,Physics
+2,Statistics
+3,Physics
+4,Computer Science
+5,Physics
+6,Computer Science
+7,Statistics
+8,"Computer Science,Statistics"
+9,Mathematics
+10,"Computer Science,Mathematics,Statistics"
+11,Mathematics
+12,Statistics
+13,Computer Science
+14,"Mathematics,Statistics"
+15,Mathematics
+16,Mathematics
+17,Quantitative Finance
+18,Physics
+19,Mathematics
+20,"Computer Science,Mathematics"
+21,"Mathematics,Statistics"
+22,Physics
+23,Computer Science
+24,Physics
+25,Mathematics
+26,Mathematics
+27,Mathematics
+28,Computer Science
+29,Physics
+30,"Computer Science,Statistics"
+31,Computer Science
+32,Physics
+33,"Mathematics,Statistics"
+34,"Computer Science,Statistics"
+35,"Computer Science,Statistics"
+36,Mathematics
+37,Statistics
+38,Physics
+39,"Physics,Mathematics"
+40,Computer Science
+41,"Computer Science,Statistics"
+42,Mathematics
+43,Mathematics
+44,Mathematics
+45,Physics
+46,Computer Science
+47,"Computer Science,Mathematics,Statistics"
+48,Computer Science
+49,Mathematics
+50,"Physics,Mathematics"
+51,"Computer Science,Statistics"
+52,Mathematics
+53,Statistics
+54,"Computer Science,Statistics"
+55,Computer Science
+56,"Computer Science,Statistics"
+57,Mathematics
+58,Computer Science
+59,Statistics
+60,"Computer Science,Statistics"
+61,Mathematics
+62,"Computer Science,Physics"
+63,Mathematics
+64,Mathematics
+65,Mathematics
+66,"Mathematics,Statistics"
+67,"Computer Science,Mathematics"
+68,Physics
+69,Computer Science
+70,Computer Science
+71,Physics
+72,"Statistics,Quantitative Biology"
+73,Computer Science
+74,Computer Science
+75,Computer Science
+76,"Computer Science,Statistics"
+77,Physics
+78,"Computer Science,Statistics"
+79,Mathematics
+80,Computer Science
+81,Computer Science
+82,Statistics
+83,Mathematics
+84,"Computer Science,Statistics"
+85,"Mathematics,Statistics"
+86,"Computer Science,Statistics"
+87,Computer Science
+88,"Computer Science,Statistics"
+89,"Computer Science,Statistics"
+90,Computer Science
+91,"Computer Science,Mathematics"
+92,Physics
+93,Mathematics
+94,Computer Science
+95,Mathematics
+96,"Computer Science,Statistics"
+97,Physics
+98,"Computer Science,Mathematics"
+99,Computer Science
+100,Computer Science
+101,Computer Science
+102,Physics
+103,Physics
+104,Computer Science
+105,Mathematics
+106,Mathematics
+107,Physics
+108,Computer Science
+109,"Computer Science,Statistics"
+110,Computer Science
+111,"Computer Science,Statistics"
+112,Computer Science
+113,Mathematics
+114,Computer Science
+115,Mathematics
+116,"Computer Science,Physics,Mathematics"
+117,"Computer Science,Statistics"
+118,"Computer Science,Statistics"
+119,"Computer Science,Statistics"
+120,"Computer Science,Mathematics"
+121,Mathematics
+122,Physics
+123,Mathematics
+124,"Computer Science,Statistics"
+125,Computer Science
+126,Physics
+127,Computer Science
+128,Mathematics
+129,Statistics
+130,Mathematics
+131,Mathematics
+132,"Computer Science,Statistics"
+133,"Computer Science,Statistics"
+134,Physics
+135,"Computer Science,Mathematics"
+136,Physics
+137,"Computer Science,Mathematics"
+138,Mathematics
+139,Physics
+140,Physics
+141,Computer Science
+142,"Computer Science,Statistics"
+143,Physics
+144,Physics
+145,Mathematics
+146,Computer Science
+147,Mathematics
+148,Physics
+149,Mathematics
+150,Statistics
+151,"Mathematics,Statistics"
+152,Computer Science
+153,Physics
+154,Physics
+155,Computer Science
+156,Computer Science
+157,"Computer Science,Statistics"
+158,Statistics
+159,Mathematics
+160,Statistics
+161,Computer Science
+162,Statistics
+163,"Computer Science,Statistics"
+164,Computer Science
+165,"Computer Science,Physics,Statistics"
+166,Statistics
+167,"Computer Science,Statistics"
+168,Mathematics
+169,"Mathematics,Statistics"
+170,Computer Science
+171,"Computer Science,Statistics"
+172,Mathematics
+173,"Computer Science,Statistics"
+174,Mathematics
+175,Physics
+176,Physics
+177,Computer Science
+178,Mathematics
+179,Mathematics
+180,Computer Science
+181,Physics
+182,Computer Science
+183,Physics
+184,"Computer Science,Mathematics,Statistics"
+185,Computer Science
+186,"Computer Science,Statistics"
+187,"Computer Science,Statistics"
+188,Mathematics
+189,Statistics
+190,"Computer Science,Statistics"
+191,Computer Science
+192,Physics
+193,Mathematics
+194,"Mathematics,Statistics"
+195,Mathematics
+196,Statistics
+197,Physics
+198,"Mathematics,Statistics"
+199,Mathematics
+200,Mathematics
+201,Physics
+202,Computer Science
+203,Mathematics
+204,Physics
+205,Physics
+206,Physics
+207,"Computer Science,Statistics"
+208,Physics
+209,"Computer Science,Physics"
+210,"Computer Science,Statistics"
+211,Computer Science
+212,Mathematics
+213,Physics
+214,Physics
+215,Quantitative Biology
+216,Computer Science
+217,Physics
+218,Physics
+219,"Mathematics,Statistics"
+220,Computer Science
+221,Computer Science
+222,Computer Science
+223,Statistics
+224,Computer Science
+225,Physics
+226,"Computer Science,Statistics"
+227,Statistics
+228,"Computer Science,Mathematics"
+229,Physics
+230,"Computer Science,Statistics"
+231,Mathematics
+232,Statistics
+233,"Mathematics,Statistics"
+234,Mathematics
+235,Computer Science
+236,"Computer Science,Statistics"
+237,"Computer Science,Statistics"
+238,Quantitative Biology
+239,Computer Science
+240,Computer Science
+241,"Mathematics,Statistics"
+242,Physics
+243,Computer Science
+244,Statistics
+245,Physics
+246,Computer Science
+247,"Computer Science,Mathematics"
+248,Physics
+249,Mathematics
+250,Physics
+251,Computer Science
+252,Computer Science
+253,Physics
+254,Statistics
+255,Mathematics
+256,Physics
+257,"Statistics,Quantitative Biology"
+258,Computer Science
+259,Physics
+260,Computer Science
+261,Mathematics
+262,Computer Science
+263,"Computer Science,Statistics"
+264,Mathematics
+265,Statistics
+266,"Computer Science,Statistics"
+267,"Computer Science,Mathematics"
+268,Computer Science
+269,"Physics,Statistics"
+270,Physics
+271,"Computer Science,Physics"
+272,Computer Science
+273,Computer Science
+274,Mathematics
+275,Computer Science
+276,Physics
+277,Physics
+278,Statistics
+279,Quantitative Finance
+280,Computer Science
+281,"Computer Science,Statistics"
+282,"Computer Science,Statistics"
+283,Physics
+284,Mathematics
+285,Physics
+286,"Computer Science,Statistics"
+287,Physics
+288,Mathematics
+289,Computer Science
+290,Physics
+291,Computer Science
+292,Computer Science
+293,Statistics
+294,Statistics
+295,"Computer Science,Statistics"
+296,Mathematics
+297,Physics
+298,Mathematics
+299,Computer Science
+300,"Computer Science,Statistics"
+301,"Computer Science,Mathematics"
+302,Computer Science
+303,Statistics
+304,Quantitative Biology
+305,"Computer Science,Physics,Statistics"
+306,Computer Science
+307,Mathematics
+308,Computer Science
+309,Physics
+310,"Computer Science,Physics"
+311,Mathematics
+312,Physics
+313,Physics
+314,Computer Science
+315,Computer Science
+316,"Computer Science,Statistics"
+317,Mathematics
+318,Mathematics
+319,Statistics
+320,Computer Science
+321,Mathematics
+322,"Computer Science,Statistics,Quantitative Biology"
+323,Physics
+324,Computer Science
+325,"Computer Science,Statistics"
+326,Mathematics
+327,"Computer Science,Statistics"
+328,Mathematics
+329,Mathematics
+330,"Computer Science,Statistics"
+331,Computer Science
+332,Mathematics
+333,Computer Science
+334,Computer Science
+335,Computer Science
+336,Physics
+337,"Computer Science,Mathematics,Statistics"
+338,Computer Science
+339,Quantitative Biology
+340,Physics
+341,Mathematics
+342,Physics
+343,Physics
+344,Computer Science
+345,"Computer Science,Statistics"
+346,"Mathematics,Statistics"
+347,Computer Science
+348,Physics
+349,"Mathematics,Statistics"
+350,Mathematics
+351,Computer Science
+352,Mathematics
+353,"Computer Science,Physics"
+354,Statistics
+355,"Computer Science,Mathematics"
+356,Statistics
+357,Computer Science
+358,Physics
+359,Physics
+360,Computer Science
+361,Quantitative Biology
+362,Computer Science
+363,Computer Science
+364,Physics
+365,Mathematics
+366,Computer Science
+367,Quantitative Biology
+368,"Computer Science,Statistics"
+369,Mathematics
+370,Computer Science
+371,Computer Science
+372,"Computer Science,Mathematics"
+373,Statistics
+374,Computer Science
+375,Computer Science
+376,Statistics
+377,"Computer Science,Statistics"
+378,Physics
+379,Computer Science
+380,Computer Science
+381,Mathematics
+382,Quantitative Finance
+383,Mathematics
+384,Physics
+385,Mathematics
+386,Statistics
+387,"Physics,Mathematics"
+388,Quantitative Finance
+389,Computer Science
+390,Statistics
+391,Mathematics
+392,Computer Science
+393,Mathematics
+394,Mathematics
+395,Mathematics
+396,Computer Science
+397,Computer Science
+398,Physics
+399,Statistics
+400,Mathematics
+401,Computer Science
+402,Physics
+403,"Computer Science,Mathematics,Statistics"
+404,Physics
+405,Quantitative Biology
+406,Computer Science
+407,Computer Science
+408,Physics
+409,Computer Science
+410,Computer Science
+411,Computer Science
+412,Physics
+413,Quantitative Biology
+414,Computer Science
+415,"Computer Science,Statistics"
+416,Computer Science
+417,Mathematics
+418,Computer Science
+419,Physics
+420,Computer Science
+421,Mathematics
+422,"Computer Science,Mathematics,Statistics"
+423,Physics
+424,Statistics
+425,Computer Science
+426,"Computer Science,Mathematics"
+427,Physics
+428,Statistics
+429,"Computer Science,Mathematics,Statistics"
+430,Quantitative Biology
+431,Physics
+432,Mathematics
+433,Physics
+434,Physics
+435,Physics
+436,Statistics
+437,Physics
+438,Computer Science
+439,Computer Science
+440,"Computer Science,Statistics"
+441,"Computer Science,Statistics"
+442,Computer Science
+443,Mathematics
+444,Mathematics
+445,Physics
+446,Computer Science
+447,"Computer Science,Statistics"
+448,Physics
+449,Mathematics
+450,Computer Science
+451,Computer Science
+452,"Computer Science,Mathematics"
+453,Physics
+454,"Computer Science,Mathematics"
+455,Mathematics
+456,Physics
+457,Physics
+458,Physics
+459,Computer Science
+460,"Computer Science,Statistics"
+461,Mathematics
+462,Computer Science
+463,Computer Science
+464,Physics
+465,Computer Science
+466,Physics
+467,Statistics
+468,Computer Science
+469,Mathematics
+470,Physics
+471,Physics
+472,"Mathematics,Statistics"
+473,Physics
+474,Computer Science
+475,"Mathematics,Statistics"
+476,"Computer Science,Statistics"
+477,Mathematics
+478,Computer Science
+479,Physics
+480,Physics
+481,Physics
+482,Mathematics
+483,Computer Science
+484,Statistics
+485,Physics
+486,Physics
+487,Quantitative Biology
+488,Computer Science
+489,"Computer Science,Statistics"
+490,Computer Science
+491,Statistics
+492,Mathematics
+493,"Computer Science,Physics"
+494,Physics
+495,Mathematics
+496,Mathematics
+497,Mathematics
+498,"Computer Science,Mathematics"
+499,Quantitative Biology
+500,Computer Science
+501,Mathematics
+502,Physics
+503,Physics
+504,Physics
+505,Physics
+506,Mathematics
+507,Physics
+508,"Computer Science,Statistics"
+509,Computer Science
+510,"Computer Science,Physics"
+511,Computer Science
+512,Computer Science
+513,Physics
+514,Physics
+515,Mathematics
+516,Physics
+517,Physics
+518,Quantitative Finance
+519,Computer Science
+520,"Physics,Mathematics"
+521,Computer Science
+522,Computer Science
+523,Mathematics
+524,Physics
+525,Physics
+526,"Computer Science,Statistics"
+527,Quantitative Biology
+528,Computer Science
+529,Computer Science
+530,"Computer Science,Mathematics"
+531,"Computer Science,Statistics"
+532,Physics
+533,Computer Science
+534,Mathematics
+535,Computer Science
+536,"Computer Science,Statistics"
+537,Statistics
+538,Mathematics
+539,Physics
+540,Computer Science
+541,Statistics
+542,Computer Science
+543,Computer Science
+544,Mathematics
+545,"Computer Science,Statistics"
+546,Physics
+547,"Computer Science,Statistics"
+548,Mathematics
+549,"Mathematics,Statistics"
+550,Computer Science
+551,Computer Science
+552,"Computer Science,Mathematics"
+553,"Computer Science,Statistics"
+554,Statistics
+555,Physics
+556,"Computer Science,Statistics"
+557,Mathematics
+558,Physics
+559,Computer Science
+560,"Computer Science,Mathematics"
+561,Statistics
+562,Mathematics
+563,Physics
+564,Computer Science
+565,Physics
+566,"Computer Science,Statistics"
+567,Statistics
+568,Mathematics
+569,Mathematics
+570,Physics
+571,"Computer Science,Mathematics"
+572,Physics
+573,Computer Science
+574,"Computer Science,Statistics"
+575,Computer Science
+576,Physics
+577,Statistics
+578,Physics
+579,Physics
+580,Physics
+581,Statistics
+582,Quantitative Biology
+583,Computer Science
+584,Physics
+585,Mathematics
+586,Mathematics
+587,Computer Science
+588,Computer Science
+589,Computer Science
+590,Computer Science
+591,Physics
+592,Physics
+593,Physics
+594,Mathematics
+595,Computer Science
+596,Physics
+597,Physics
+598,Computer Science
+599,Computer Science
+600,"Computer Science,Statistics"
+601,"Computer Science,Physics"
+602,Computer Science
+603,"Computer Science,Mathematics"
+604,Physics
+605,Mathematics
+606,"Mathematics,Statistics"
+607,Physics
+608,Mathematics
+609,Mathematics
+610,Physics
+611,Physics
+612,Physics
+613,"Computer Science,Mathematics,Statistics"
+614,Mathematics
+615,Computer Science
+616,Computer Science
+617,"Mathematics,Statistics"
+618,"Computer Science,Mathematics"
+619,Physics
+620,Computer Science
+621,Physics
+622,Physics
+623,Computer Science
+624,Mathematics
+625,Physics
+626,Physics
+627,Physics
+628,Computer Science
+629,Computer Science
+630,Physics
+631,Physics
+632,Statistics
+633,"Computer Science,Statistics"
+634,Statistics
+635,Physics
+636,Mathematics
+637,"Computer Science,Physics"
+638,Mathematics
+639,Physics
+640,Quantitative Biology
+641,"Computer Science,Statistics"
+642,Mathematics
+643,Computer Science
+644,Statistics
+645,Physics
+646,"Mathematics,Statistics"
+647,Mathematics
+648,Computer Science
+649,"Computer Science,Statistics"
+650,Computer Science
+651,"Computer Science,Statistics"
+652,Physics
+653,Physics
+654,Physics
+655,Mathematics
+656,Mathematics
+657,Mathematics
+658,"Computer Science,Statistics"
+659,Computer Science
+660,Computer Science
+661,Computer Science
+662,Computer Science
+663,Computer Science
+664,"Computer Science,Statistics"
+665,Mathematics
+666,Computer Science
+667,Mathematics
+668,Computer Science
+669,Mathematics
+670,Mathematics
+671,Mathematics
+672,"Computer Science,Mathematics,Statistics"
+673,Computer Science
+674,"Computer Science,Statistics"
+675,"Computer Science,Mathematics"
+676,Computer Science
+677,Statistics
+678,Computer Science
+679,Mathematics
+680,Quantitative Biology
+681,"Computer Science,Mathematics"
+682,Quantitative Biology
+683,"Computer Science,Statistics"
+684,Mathematics
+685,Quantitative Biology
+686,Physics
+687,Computer Science
+688,Computer Science
+689,Physics
+690,Physics
+691,Computer Science
+692,Quantitative Biology
+693,Mathematics
+694,"Computer Science,Physics"
+695,"Mathematics,Statistics"
+696,"Mathematics,Statistics"
+697,Mathematics
+698,Physics
+699,Computer Science
+700,"Computer Science,Statistics"
+701,"Computer Science,Mathematics"
+702,Computer Science
+703,Physics
+704,"Computer Science,Mathematics"
+705,Physics
+706,"Computer Science,Statistics"
+707,"Computer Science,Statistics"
+708,Physics
+709,Physics
+710,Physics
+711,Physics
+712,Statistics
+713,Computer Science
+714,Statistics
+715,Computer Science
+716,Mathematics
+717,"Computer Science,Statistics"
+718,"Computer Science,Statistics"
+719,"Computer Science,Mathematics"
+720,Physics
+721,Physics
+722,"Mathematics,Statistics"
+723,Mathematics
+724,Computer Science
+725,Computer Science
+726,Computer Science
+727,Physics
+728,"Computer Science,Statistics"
+729,"Statistics,Quantitative Finance"
+730,Mathematics
+731,Computer Science
+732,Mathematics
+733,"Physics,Mathematics"
+734,"Computer Science,Mathematics"
+735,Physics
+736,"Physics,Mathematics"
+737,Computer Science
+738,"Computer Science,Mathematics,Statistics"
+739,Computer Science
+740,Computer Science
+741,Statistics
+742,Mathematics
+743,Mathematics
+744,Statistics
+745,Mathematics
+746,Computer Science
+747,Mathematics
+748,"Computer Science,Mathematics"
+749,"Computer Science,Statistics"
+750,Physics
+751,Computer Science
+752,Physics
+753,"Computer Science,Statistics"
+754,"Computer Science,Statistics"
+755,"Mathematics,Statistics"
+756,"Computer Science,Mathematics"
+757,Physics
+758,Statistics
+759,Computer Science
+760,"Computer Science,Statistics"
+761,"Computer Science,Statistics"
+762,Statistics
+763,Statistics
+764,"Computer Science,Statistics"
+765,Statistics
+766,Physics
+767,Computer Science
+768,"Statistics,Quantitative Biology"
+769,"Computer Science,Statistics"
+770,Mathematics
+771,Computer Science
+772,Physics
+773,Physics
+774,Mathematics
+775,"Computer Science,Mathematics"
+776,"Computer Science,Statistics"
+777,"Computer Science,Statistics"
+778,Computer Science
+779,Computer Science
+780,Statistics
+781,"Statistics,Quantitative Biology"
+782,Physics
+783,Physics
+784,"Computer Science,Mathematics,Statistics"
+785,"Computer Science,Statistics"
+786,"Statistics,Quantitative Biology"
+787,"Computer Science,Statistics"
+788,Mathematics
+789,Physics
+790,"Physics,Mathematics"
+791,Computer Science
+792,Mathematics
+793,Physics
+794,Computer Science
+795,Computer Science
+796,"Mathematics,Statistics"
+797,"Computer Science,Statistics"
+798,Physics
+799,"Physics,Mathematics"
+800,Physics
+801,Computer Science
+802,Computer Science
+803,Mathematics
+804,Computer Science
+805,"Mathematics,Statistics"
+806,Physics
+807,Mathematics
+808,Mathematics
+809,Mathematics
+810,Computer Science
+811,Computer Science
+812,Computer Science
+813,"Computer Science,Mathematics"
+814,Statistics
+815,"Mathematics,Statistics"
+816,Mathematics
+817,"Mathematics,Statistics"
+818,"Computer Science,Statistics"
+819,Mathematics
+820,"Computer Science,Statistics"
+821,Mathematics
+822,Mathematics
+823,Statistics
+824,"Mathematics,Statistics"
+825,"Physics,Mathematics"
+826,Mathematics
+827,"Statistics,Quantitative Finance"
+828,Mathematics
+829,Computer Science
+830,Physics
+831,Physics
+832,Physics
+833,Mathematics
+834,"Mathematics,Statistics"
+835,"Computer Science,Mathematics"
+836,"Statistics,Quantitative Biology"
+837,Mathematics
+838,"Computer Science,Statistics"
+839,"Computer Science,Statistics"
+840,"Computer Science,Statistics"
+841,Mathematics
+842,Computer Science
+843,Computer Science
+844,Quantitative Biology
+845,Physics
+846,Computer Science
+847,Computer Science
+848,"Computer Science,Statistics"
+849,Mathematics
+850,Physics
+851,Computer Science
+852,"Mathematics,Statistics"
+853,Physics
+854,"Computer Science,Statistics"
+855,Computer Science
+856,Statistics
+857,Computer Science
+858,Mathematics
+859,Physics
+860,Mathematics
+861,"Computer Science,Statistics"
+862,Statistics
+863,Computer Science
+864,Physics
+865,Mathematics
+866,Computer Science
+867,Mathematics
+868,Physics
+869,"Computer Science,Statistics"
+870,Physics
+871,Computer Science
+872,Mathematics
+873,Physics
+874,Physics
+875,Physics
+876,Physics
+877,Statistics
+878,Mathematics
+879,"Mathematics,Statistics"
+880,Computer Science
+881,Physics
+882,Mathematics
+883,Statistics
+884,Computer Science
+885,Computer Science
+886,Computer Science
+887,Computer Science
+888,Mathematics
+889,Physics
+890,Computer Science
+891,Physics
+892,Mathematics
+893,Mathematics
+894,Physics
+895,Statistics
+896,Computer Science
+897,Mathematics
+898,Physics
+899,Computer Science
+900,Computer Science
+901,Mathematics
+902,Physics
+903,Computer Science
+904,Physics
+905,"Physics,Mathematics"
+906,Quantitative Biology
+907,Mathematics
+908,Mathematics
+909,Mathematics
+910,Mathematics
+911,Physics
+912,Physics
+913,Physics
+914,Physics
+915,Computer Science
+916,Physics
+917,Physics
+918,Computer Science
+919,Statistics
+920,"Computer Science,Statistics"
+921,Computer Science
+922,Computer Science
+923,Computer Science
+924,Computer Science
+925,Physics
+926,Computer Science
+927,Mathematics
+928,Physics
+929,"Physics,Mathematics"
+930,Mathematics
+931,Computer Science
+932,"Computer Science,Statistics"
+933,Quantitative Biology
+934,"Computer Science,Statistics"
+935,Physics
+936,Statistics
+937,Physics
+938,"Computer Science,Statistics"
+939,Physics
+940,"Computer Science,Statistics"
+941,Quantitative Finance
+942,Mathematics
+943,Mathematics
+944,Mathematics
+945,Mathematics
+946,Computer Science
+947,"Computer Science,Statistics"
+948,Mathematics
+949,"Computer Science,Statistics"
+950,"Computer Science,Statistics"
+951,"Computer Science,Statistics"
+952,Computer Science
+953,Mathematics
+954,Computer Science
+955,Physics
+956,Computer Science
+957,Mathematics
+958,Physics
+959,Computer Science
+960,Physics
+961,Computer Science
+962,"Computer Science,Statistics"
+963,"Computer Science,Statistics"
+964,Mathematics
+965,Statistics
+966,Computer Science
+967,"Mathematics,Statistics"
+968,Quantitative Biology
+969,"Computer Science,Statistics"
+970,Mathematics
+971,Physics
+972,Mathematics
+973,Computer Science
+974,Mathematics
+975,Physics
+976,Mathematics
+977,Physics
+978,Computer Science
+979,"Mathematics,Statistics"
+980,Physics
+981,Computer Science
+982,Computer Science
+983,Physics
+984,Mathematics
+985,Mathematics
+986,Statistics
+987,"Computer Science,Statistics"
+988,Physics
+989,Computer Science
+990,Computer Science
+991,Physics
+992,Physics
+993,Physics
+994,Quantitative Biology
+995,Physics
+996,Mathematics
+997,Mathematics
+998,Statistics
+999,Computer Science
+1000,Mathematics
+1001,Physics
+1002,Computer Science
+1003,Mathematics
+1004,Mathematics
+1005,Physics
+1006,Physics
+1007,Physics
+1008,"Computer Science,Physics"
+1009,Mathematics
+1010,"Computer Science,Statistics"
+1011,"Mathematics,Statistics"
+1012,Computer Science
+1013,Mathematics
+1014,Physics
+1015,Computer Science
+1016,Mathematics
+1017,"Quantitative Biology,Quantitative Finance"
+1018,Computer Science
+1019,Mathematics
+1020,Computer Science
+1021,Computer Science
+1022,Quantitative Finance
+1023,Mathematics
+1024,Mathematics
+1025,Statistics
+1026,Computer Science
+1027,Mathematics
+1028,"Computer Science,Statistics"
+1029,Mathematics
+1030,Computer Science
+1031,"Computer Science,Mathematics,Statistics"
+1032,Mathematics
+1033,"Computer Science,Statistics"
+1034,Mathematics
+1035,Mathematics
+1036,Mathematics
+1037,"Computer Science,Statistics"
+1038,Computer Science
+1039,"Computer Science,Statistics"
+1040,"Computer Science,Statistics"
+1041,"Computer Science,Statistics"
+1042,Mathematics
+1043,Physics
+1044,Physics
+1045,Physics
+1046,Physics
+1047,Computer Science
+1048,Computer Science
+1049,Physics
+1050,Physics
+1051,Computer Science
+1052,Computer Science
+1053,"Mathematics,Statistics"
+1054,Quantitative Biology
+1055,Statistics
+1056,Mathematics
+1057,Computer Science
+1058,Mathematics
+1059,Physics
+1060,"Physics,Mathematics"
+1061,Mathematics
+1062,Physics
+1063,Computer Science
+1064,Mathematics
+1065,Mathematics
+1066,Mathematics
+1067,Computer Science
+1068,Statistics
+1069,Computer Science
+1070,"Computer Science,Physics"
+1071,"Computer Science,Mathematics,Statistics"
+1072,"Computer Science,Mathematics,Statistics"
+1073,Mathematics
+1074,Physics
+1075,Mathematics
+1076,Physics
+1077,Mathematics
+1078,Mathematics
+1079,Mathematics
+1080,Mathematics
+1081,Mathematics
+1082,Mathematics
+1083,Computer Science
+1084,"Computer Science,Statistics"
+1085,Mathematics
+1086,Physics
+1087,"Computer Science,Statistics"
+1088,Physics
+1089,Mathematics
+1090,Physics
+1091,Mathematics
+1092,Computer Science
+1093,Statistics
+1094,Physics
+1095,Computer Science
+1096,Mathematics
+1097,Computer Science
+1098,Mathematics
+1099,Computer Science
+1100,"Mathematics,Statistics"
+1101,Mathematics
+1102,Statistics
+1103,Computer Science
+1104,Mathematics
+1105,"Physics,Statistics"
+1106,"Computer Science,Mathematics"
+1107,"Mathematics,Statistics"
+1108,"Computer Science,Statistics"
+1109,Physics
+1110,Computer Science
+1111,Computer Science
+1112,Quantitative Biology
+1113,Computer Science
+1114,Physics
+1115,Computer Science
+1116,Physics
+1117,Mathematics
+1118,Mathematics
+1119,Mathematics
+1120,Mathematics
+1121,Computer Science
+1122,Physics
+1123,Physics
+1124,Mathematics
+1125,"Computer Science,Mathematics"
+1126,Mathematics
+1127,Mathematics
+1128,Physics
+1129,Physics
+1130,Mathematics
+1131,Mathematics
+1132,Computer Science
+1133,"Computer Science,Physics"
+1134,Physics
+1135,"Computer Science,Mathematics"
+1136,Physics
+1137,Physics
+1138,"Computer Science,Physics"
+1139,Mathematics
+1140,Mathematics
+1141,Computer Science
+1142,Mathematics
+1143,Mathematics
+1144,Physics
+1145,Mathematics
+1146,"Computer Science,Statistics"
+1147,Computer Science
+1148,Physics
+1149,"Computer Science,Statistics"
+1150,"Mathematics,Statistics"
+1151,Mathematics
+1152,"Computer Science,Physics"
+1153,Physics
+1154,Computer Science
+1155,"Computer Science,Statistics"
+1156,Computer Science
+1157,Physics
+1158,"Mathematics,Statistics"
+1159,Mathematics
+1160,Physics
+1161,Computer Science
+1162,Physics
+1163,Computer Science
+1164,Statistics
+1165,Computer Science
+1166,Physics
+1167,Mathematics
+1168,Physics
+1169,Physics
+1170,"Mathematics,Statistics"
+1171,Statistics
+1172,Computer Science
+1173,Mathematics
+1174,"Computer Science,Physics"
+1175,Physics
+1176,"Mathematics,Statistics"
+1177,Physics
+1178,Mathematics
+1179,"Mathematics,Statistics"
+1180,Mathematics
+1181,Mathematics
+1182,Mathematics
+1183,Computer Science
+1184,Computer Science
+1185,"Computer Science,Statistics"
+1186,Mathematics
+1187,Computer Science
+1188,Computer Science
+1189,"Mathematics,Statistics"
+1190,Physics
+1191,Computer Science
+1192,Physics
+1193,"Computer Science,Mathematics"
+1194,"Computer Science,Mathematics"
+1195,Physics
+1196,Physics
+1197,"Computer Science,Statistics"
+1198,"Computer Science,Statistics"
+1199,Physics
+1200,"Mathematics,Statistics"
+1201,Mathematics
+1202,"Mathematics,Statistics"
+1203,Statistics
+1204,"Computer Science,Statistics"
+1205,Mathematics
+1206,Physics
+1207,Physics
+1208,"Computer Science,Statistics"
+1209,Computer Science
+1210,Computer Science
+1211,"Mathematics,Statistics"
+1212,Mathematics
+1213,Physics
+1214,Computer Science
+1215,Computer Science
+1216,Mathematics
+1217,Computer Science
+1218,Computer Science
+1219,Statistics
+1220,Mathematics
+1221,Mathematics
+1222,Physics
+1223,Computer Science
+1224,Computer Science
+1225,Statistics
+1226,Physics
+1227,Computer Science
+1228,Computer Science
+1229,Computer Science
+1230,Physics
+1231,Computer Science
+1232,"Computer Science,Statistics"
+1233,Physics
+1234,Mathematics
+1235,Mathematics
+1236,Mathematics
+1237,"Computer Science,Statistics"
+1238,Mathematics
+1239,Physics
+1240,Mathematics
+1241,Computer Science
+1242,Physics
+1243,Statistics
+1244,Computer Science
+1245,Physics
+1246,Physics
+1247,"Physics,Statistics"
+1248,Mathematics
+1249,Physics
+1250,Mathematics
+1251,Mathematics
+1252,Physics
+1253,"Computer Science,Mathematics"
+1254,Computer Science
+1255,Physics
+1256,"Computer Science,Statistics"
+1257,"Computer Science,Statistics"
+1258,"Physics,Mathematics"
+1259,Physics
+1260,"Computer Science,Mathematics"
+1261,Mathematics
+1262,Physics
+1263,Physics
+1264,Computer Science
+1265,Statistics
+1266,"Computer Science,Mathematics"
+1267,Computer Science
+1268,"Computer Science,Statistics"
+1269,Physics
+1270,Computer Science
+1271,Mathematics
+1272,Computer Science
+1273,Mathematics
+1274,"Mathematics,Statistics"
+1275,Physics
+1276,Mathematics
+1277,Computer Science
+1278,Statistics
+1279,Physics
+1280,Computer Science
+1281,Mathematics
+1282,"Computer Science,Statistics"
+1283,"Computer Science,Physics"
+1284,Computer Science
+1285,Quantitative Biology
+1286,Physics
+1287,Physics
+1288,Physics
+1289,Quantitative Biology
+1290,Computer Science
+1291,Mathematics
+1292,Physics
+1293,Computer Science
+1294,Physics
+1295,"Computer Science,Statistics"
+1296,"Mathematics,Statistics"
+1297,Physics
+1298,Mathematics
+1299,"Computer Science,Statistics"
+1300,Computer Science
+1301,"Computer Science,Physics"
+1302,Mathematics
+1303,Quantitative Biology
+1304,Computer Science
+1305,Computer Science
+1306,Mathematics
+1307,Mathematics
+1308,Mathematics
+1309,Physics
+1310,Statistics
+1311,Physics
+1312,Computer Science
+1313,"Computer Science,Statistics"
+1314,"Computer Science,Statistics"
+1315,"Computer Science,Statistics"
+1316,Mathematics
+1317,Computer Science
+1318,Computer Science
+1319,Physics
+1320,Physics
+1321,Mathematics
+1322,Physics
+1323,Physics
+1324,Statistics
+1325,Computer Science
+1326,Mathematics
+1327,Mathematics
+1328,Computer Science
+1329,Physics
+1330,Physics
+1331,Physics
+1332,Mathematics
+1333,Computer Science
+1334,Statistics
+1335,Statistics
+1336,Statistics
+1337,"Computer Science,Statistics"
+1338,Mathematics
+1339,Statistics
+1340,Physics
+1341,Computer Science
+1342,Physics
+1343,Physics
+1344,Mathematics
+1345,Computer Science
+1346,Computer Science
+1347,Physics
+1348,Statistics
+1349,Computer Science
+1350,Mathematics
+1351,Computer Science
+1352,Physics
+1353,"Computer Science,Statistics"
+1354,Computer Science
+1355,Mathematics
+1356,Mathematics
+1357,"Computer Science,Mathematics"
+1358,Computer Science
+1359,Computer Science
+1360,Mathematics
+1361,Computer Science
+1362,Computer Science
+1363,"Physics,Mathematics"
+1364,Physics
+1365,Mathematics
+1366,Mathematics
+1367,Computer Science
+1368,Computer Science
+1369,Mathematics
+1370,Physics
+1371,Computer Science
+1372,Computer Science
+1373,Mathematics
+1374,Statistics
+1375,"Computer Science,Statistics"
+1376,Physics
+1377,Mathematics
+1378,Computer Science
+1379,Physics
+1380,Physics
+1381,Mathematics
+1382,Statistics
+1383,Computer Science
+1384,Physics
+1385,Physics
+1386,Mathematics
+1387,Physics
+1388,Physics
+1389,"Computer Science,Statistics"
+1390,Computer Science
+1391,Computer Science
+1392,Mathematics
+1393,Computer Science
+1394,Computer Science
+1395,Physics
+1396,"Computer Science,Statistics"
+1397,Mathematics
+1398,"Computer Science,Statistics"
+1399,Physics
+1400,"Computer Science,Statistics"
+1401,Mathematics
+1402,"Computer Science,Statistics"
+1403,Computer Science
+1404,Computer Science
+1405,"Computer Science,Statistics"
+1406,Mathematics
+1407,Computer Science
+1408,"Computer Science,Statistics"
+1409,"Computer Science,Statistics"
+1410,Statistics
+1411,Mathematics
+1412,"Mathematics,Statistics"
+1413,"Mathematics,Statistics"
+1414,Physics
+1415,Computer Science
+1416,Mathematics
+1417,Physics
+1418,Quantitative Finance
+1419,Physics
+1420,Computer Science
+1421,Physics
+1422,Computer Science
+1423,Physics
+1424,Computer Science
+1425,Mathematics
+1426,Computer Science
+1427,Computer Science
+1428,Computer Science
+1429,Physics
+1430,Physics
+1431,Physics
+1432,"Physics,Statistics"
+1433,"Computer Science,Statistics"
+1434,Computer Science
+1435,Physics
+1436,Computer Science
+1437,Computer Science
+1438,Physics
+1439,Physics
+1440,Mathematics
+1441,Statistics
+1442,Computer Science
+1443,Mathematics
+1444,Computer Science
+1445,Statistics
+1446,Physics
+1447,Computer Science
+1448,Computer Science
+1449,"Computer Science,Statistics"
+1450,"Mathematics,Statistics"
+1451,Computer Science
+1452,"Mathematics,Statistics"
+1453,Mathematics
+1454,Computer Science
+1455,"Computer Science,Statistics"
+1456,Physics
+1457,Statistics
+1458,"Mathematics,Statistics"
+1459,Physics
+1460,Computer Science
+1461,"Computer Science,Statistics"
+1462,Physics
+1463,Computer Science
+1464,Mathematics
+1465,Mathematics
+1466,Computer Science
+1467,"Computer Science,Mathematics"
+1468,Statistics
+1469,Computer Science
+1470,"Computer Science,Statistics"
+1471,"Computer Science,Statistics"
+1472,Computer Science
+1473,Computer Science
+1474,Physics
+1475,"Mathematics,Statistics"
+1476,Physics
+1477,Computer Science
+1478,Computer Science
+1479,"Computer Science,Statistics"
+1480,Computer Science
+1481,Mathematics
+1482,Mathematics
+1483,Computer Science
+1484,Physics
+1485,"Mathematics,Statistics"
+1486,Mathematics
+1487,Mathematics
+1488,"Computer Science,Statistics"
+1489,Statistics
+1490,Quantitative Biology
+1491,Quantitative Biology
+1492,"Mathematics,Statistics"
+1493,Mathematics
+1494,"Computer Science,Statistics"
+1495,Physics
+1496,Mathematics
+1497,Mathematics
+1498,Physics
+1499,Computer Science
+1500,Physics
+1501,Computer Science
+1502,"Computer Science,Statistics"
+1503,Physics
+1504,Physics
+1505,Computer Science
+1506,"Computer Science,Statistics"
+1507,"Computer Science,Statistics"
+1508,Mathematics
+1509,Quantitative Biology
+1510,Mathematics
+1511,Computer Science
+1512,Statistics
+1513,Statistics
+1514,Physics
+1515,"Mathematics,Statistics"
+1516,Mathematics
+1517,"Computer Science,Statistics"
+1518,"Computer Science,Statistics"
+1519,Statistics
+1520,Physics
+1521,Computer Science
+1522,Computer Science
+1523,"Computer Science,Mathematics"
+1524,Mathematics
+1525,Statistics
+1526,"Computer Science,Mathematics"
+1527,"Computer Science,Statistics"
+1528,Physics
+1529,"Computer Science,Mathematics"
+1530,Physics
+1531,Computer Science
+1532,"Mathematics,Statistics"
+1533,Statistics
+1534,Physics
+1535,Physics
+1536,"Computer Science,Mathematics"
+1537,Physics
+1538,Statistics
+1539,Physics
+1540,"Computer Science,Mathematics,Statistics"
+1541,"Physics,Mathematics"
+1542,Mathematics
+1543,Physics
+1544,"Computer Science,Mathematics"
+1545,Physics
+1546,"Mathematics,Statistics"
+1547,Quantitative Biology
+1548,Physics
+1549,Physics
+1550,Computer Science
+1551,Computer Science
+1552,Quantitative Biology
+1553,Mathematics
+1554,Mathematics
+1555,Mathematics
+1556,"Computer Science,Mathematics"
+1557,Computer Science
+1558,Computer Science
+1559,"Computer Science,Statistics"
+1560,Statistics
+1561,Computer Science
+1562,Statistics
+1563,Physics
+1564,Computer Science
+1565,"Computer Science,Statistics"
+1566,Computer Science
+1567,"Mathematics,Statistics"
+1568,"Computer Science,Statistics"
+1569,Mathematics
+1570,Computer Science
+1571,"Computer Science,Statistics"
+1572,"Computer Science,Physics,Statistics"
+1573,"Mathematics,Statistics"
+1574,Computer Science
+1575,Physics
+1576,"Computer Science,Statistics"
+1577,"Mathematics,Statistics"
+1578,Physics
+1579,"Computer Science,Mathematics"
+1580,Mathematics
+1581,"Computer Science,Statistics"
+1582,Quantitative Biology
+1583,Mathematics
+1584,Statistics
+1585,Physics
+1586,Mathematics
+1587,"Mathematics,Statistics"
+1588,Physics
+1589,"Computer Science,Statistics"
+1590,Mathematics
+1591,Mathematics
+1592,Computer Science
+1593,Mathematics
+1594,Statistics
+1595,Physics
+1596,Computer Science
+1597,Statistics
+1598,Physics
+1599,Computer Science
+1600,Computer Science
+1601,Mathematics
+1602,Computer Science
+1603,Computer Science
+1604,"Mathematics,Statistics"
+1605,Mathematics
+1606,Computer Science
+1607,Mathematics
+1608,Mathematics
+1609,Mathematics
+1610,"Computer Science,Mathematics"
+1611,Computer Science
+1612,Physics
+1613,Computer Science
+1614,"Computer Science,Statistics"
+1615,"Computer Science,Statistics"
+1616,Mathematics
+1617,Mathematics
+1618,Computer Science
+1619,Computer Science
+1620,Physics
+1621,Physics
+1622,Computer Science
+1623,Physics
+1624,Physics
+1625,Statistics
+1626,Statistics
+1627,Computer Science
+1628,Computer Science
+1629,Mathematics
+1630,Quantitative Finance
+1631,"Computer Science,Statistics"
+1632,Mathematics
+1633,Physics
+1634,Mathematics
+1635,Physics
+1636,Mathematics
+1637,"Mathematics,Statistics"
+1638,Physics
+1639,Computer Science
+1640,Physics
+1641,Mathematics
+1642,"Mathematics,Statistics"
+1643,Mathematics
+1644,Physics
+1645,"Computer Science,Statistics"
+1646,Computer Science
+1647,Mathematics
+1648,Computer Science
+1649,Quantitative Biology
+1650,"Physics,Statistics"
+1651,Computer Science
+1652,"Computer Science,Mathematics"
+1653,Physics
+1654,Mathematics
+1655,Physics
+1656,Mathematics
+1657,Mathematics
+1658,Physics
+1659,"Physics,Mathematics,Statistics"
+1660,Physics
+1661,"Computer Science,Statistics"
+1662,Physics
+1663,"Computer Science,Statistics"
+1664,Computer Science
+1665,Statistics
+1666,"Computer Science,Mathematics"
+1667,Statistics
+1668,"Mathematics,Statistics"
+1669,Physics
+1670,Mathematics
+1671,Physics
+1672,"Computer Science,Statistics"
+1673,"Computer Science,Statistics"
+1674,Physics
+1675,Mathematics
+1676,Computer Science
+1677,Mathematics
+1678,Computer Science
+1679,Physics
+1680,Computer Science
+1681,Computer Science
+1682,Statistics
+1683,Computer Science
+1684,Mathematics
+1685,"Mathematics,Statistics"
+1686,Computer Science
+1687,Physics
+1688,Mathematics
+1689,Physics
+1690,Physics
+1691,Physics
+1692,Statistics
+1693,"Computer Science,Statistics"
+1694,Physics
+1695,Physics
+1696,"Computer Science,Statistics"
+1697,Physics
+1698,Physics
+1699,"Computer Science,Statistics"
+1700,Computer Science
+1701,Computer Science
+1702,Mathematics
+1703,Mathematics
+1704,Physics
+1705,Physics
+1706,Mathematics
+1707,Physics
+1708,"Computer Science,Statistics"
+1709,Computer Science
+1710,Quantitative Finance
+1711,Statistics
+1712,Physics
+1713,"Mathematics,Statistics"
+1714,Mathematics
+1715,Computer Science
+1716,"Computer Science,Statistics"
+1717,Computer Science
+1718,Mathematics
+1719,Physics
+1720,Physics
+1721,Computer Science
+1722,"Computer Science,Statistics"
+1723,Physics
+1724,Computer Science
+1725,"Computer Science,Statistics"
+1726,"Mathematics,Statistics"
+1727,Statistics
+1728,Physics
+1729,Physics
+1730,Physics
+1731,Physics
+1732,Statistics
+1733,Physics
+1734,Computer Science
+1735,Computer Science
+1736,Statistics
+1737,"Mathematics,Statistics"
+1738,"Computer Science,Statistics"
+1739,Computer Science
+1740,"Computer Science,Statistics"
+1741,"Computer Science,Statistics"
+1742,Physics
+1743,Computer Science
+1744,Mathematics
+1745,Statistics
+1746,"Mathematics,Statistics"
+1747,Mathematics
+1748,Mathematics
+1749,"Computer Science,Statistics"
+1750,Physics
+1751,Mathematics
+1752,Physics
+1753,Statistics
+1754,Physics
+1755,Physics
+1756,Physics
+1757,Computer Science
+1758,"Computer Science,Statistics"
+1759,Computer Science
+1760,"Computer Science,Mathematics"
+1761,Computer Science
+1762,"Computer Science,Mathematics"
+1763,Quantitative Biology
+1764,"Computer Science,Statistics"
+1765,Physics
+1766,Physics
+1767,"Computer Science,Mathematics,Statistics"
+1768,Mathematics
+1769,Mathematics
+1770,Mathematics
+1771,Computer Science
+1772,Physics
+1773,"Computer Science,Statistics"
+1774,Mathematics
+1775,Mathematics
+1776,Mathematics
+1777,Mathematics
+1778,Mathematics
+1779,Mathematics
+1780,"Computer Science,Statistics"
+1781,Physics
+1782,"Computer Science,Statistics"
+1783,Mathematics
+1784,Mathematics
+1785,Mathematics
+1786,"Computer Science,Statistics"
+1787,"Computer Science,Statistics"
+1788,Physics
+1789,"Computer Science,Statistics"
+1790,Computer Science
+1791,Computer Science
+1792,"Computer Science,Mathematics"
+1793,Computer Science
+1794,Mathematics
+1795,Physics
+1796,"Computer Science,Physics"
+1797,"Computer Science,Statistics"
+1798,Mathematics
+1799,Physics
+1800,Mathematics
+1801,Computer Science
+1802,Computer Science
+1803,Physics
+1804,Computer Science
+1805,Physics
+1806,Computer Science
+1807,"Computer Science,Statistics"
+1808,Physics
+1809,Mathematics
+1810,"Computer Science,Mathematics"
+1811,Mathematics
+1812,"Computer Science,Statistics"
+1813,Mathematics
+1814,"Computer Science,Statistics"
+1815,Physics
+1816,Physics
+1817,Computer Science
+1818,Statistics
+1819,Physics
+1820,Computer Science
+1821,Mathematics
+1822,Statistics
+1823,Computer Science
+1824,Statistics
+1825,Statistics
+1826,Physics
+1827,Physics
+1828,"Computer Science,Statistics"
+1829,Physics
+1830,Computer Science
+1831,"Computer Science,Statistics"
+1832,Computer Science
+1833,Physics
+1834,Quantitative Biology
+1835,Physics
+1836,Computer Science
+1837,Mathematics
+1838,Computer Science
+1839,Computer Science
+1840,Computer Science
+1841,"Computer Science,Mathematics,Statistics"
+1842,Mathematics
+1843,Computer Science
+1844,Computer Science
+1845,"Computer Science,Statistics"
+1846,Physics
+1847,Physics
+1848,Mathematics
+1849,Computer Science
+1850,Physics
+1851,Mathematics
+1852,Mathematics
+1853,Physics
+1854,Mathematics
+1855,Computer Science
+1856,Physics
+1857,Mathematics
+1858,"Mathematics,Statistics"
+1859,"Computer Science,Statistics"
+1860,Physics
+1861,Computer Science
+1862,"Computer Science,Statistics"
+1863,Computer Science
+1864,"Computer Science,Mathematics,Statistics"
+1865,Physics
+1866,"Computer Science,Statistics"
+1867,"Computer Science,Statistics"
+1868,Mathematics
+1869,"Computer Science,Mathematics,Statistics"
+1870,"Computer Science,Statistics"
+1871,"Mathematics,Statistics"
+1872,Physics
+1873,Statistics
+1874,Computer Science
+1875,Physics
+1876,Statistics
+1877,Statistics
+1878,Physics
+1879,"Computer Science,Statistics"
+1880,Physics
+1881,Computer Science
+1882,Mathematics
+1883,Physics
+1884,"Computer Science,Statistics"
+1885,Mathematics
+1886,"Computer Science,Mathematics"
+1887,Computer Science
+1888,"Computer Science,Statistics"
+1889,Mathematics
+1890,Mathematics
+1891,Physics
+1892,"Computer Science,Statistics"
+1893,"Mathematics,Statistics"
+1894,"Mathematics,Statistics"
+1895,Mathematics
+1896,Computer Science
+1897,Mathematics
+1898,Computer Science
+1899,Mathematics
+1900,Computer Science
+1901,Computer Science
+1902,Physics
+1903,"Computer Science,Statistics"
+1904,Physics
+1905,Mathematics
+1906,Physics
+1907,Computer Science
+1908,Physics
+1909,"Computer Science,Statistics"
+1910,Physics
+1911,Physics
+1912,"Computer Science,Statistics"
+1913,Physics
+1914,Physics
+1915,Statistics
+1916,"Mathematics,Statistics"
+1917,Statistics
+1918,Computer Science
+1919,"Computer Science,Statistics"
+1920,Physics
+1921,Mathematics
+1922,Computer Science
+1923,Computer Science
+1924,"Computer Science,Statistics"
+1925,Mathematics
+1926,Physics
+1927,Mathematics
+1928,Statistics
+1929,Mathematics
+1930,Computer Science
+1931,Computer Science
+1932,"Computer Science,Statistics"
+1933,"Mathematics,Statistics"
+1934,"Computer Science,Mathematics"
+1935,Computer Science
+1936,Physics
+1937,"Computer Science,Statistics"
+1938,"Computer Science,Mathematics"
+1939,Physics
+1940,Physics
+1941,Computer Science
+1942,Physics
+1943,Mathematics
+1944,Computer Science
+1945,Physics
+1946,Mathematics
+1947,"Computer Science,Mathematics"
+1948,"Computer Science,Mathematics"
+1949,Physics
+1950,Mathematics
+1951,"Computer Science,Statistics"
+1952,Physics
+1953,Computer Science
+1954,Computer Science
+1955,Statistics
+1956,Mathematics
+1957,Computer Science
+1958,Computer Science
+1959,Physics
+1960,Computer Science
+1961,Physics
+1962,Physics
+1963,Physics
+1964,Physics
+1965,Mathematics
+1966,"Computer Science,Statistics"
+1967,Computer Science
+1968,"Computer Science,Statistics"
+1969,"Computer Science,Statistics"
+1970,Physics
+1971,"Computer Science,Mathematics"
+1972,Physics
+1973,"Computer Science,Statistics"
+1974,"Computer Science,Statistics"
+1975,"Physics,Mathematics"
+1976,"Computer Science,Mathematics"
+1977,"Computer Science,Statistics"
+1978,Physics
+1979,"Computer Science,Statistics"
+1980,"Mathematics,Statistics"
+1981,Computer Science
+1982,"Computer Science,Statistics"
+1983,Computer Science
+1984,Physics
+1985,Physics
+1986,Mathematics
+1987,Physics
+1988,Physics
+1989,Physics
+1990,"Computer Science,Statistics"
+1991,Physics
+1992,Physics
+1993,"Computer Science,Mathematics"
+1994,Mathematics
+1995,Physics
+1996,Mathematics
+1997,Physics
+1998,"Computer Science,Statistics"
+1999,Mathematics
+2000,Computer Science
+2001,"Computer Science,Physics"
+2002,"Computer Science,Statistics"
+2003,Mathematics
+2004,"Computer Science,Mathematics"
+2005,"Computer Science,Physics"
+2006,Computer Science
+2007,"Computer Science,Mathematics"
+2008,Statistics
+2009,Mathematics
+2010,Physics
+2011,Computer Science
+2012,"Computer Science,Mathematics,Statistics"
+2013,Mathematics
+2014,Computer Science
+2015,"Computer Science,Statistics"
+2016,Physics
+2017,Computer Science
+2018,Physics
+2019,Computer Science
+2020,"Computer Science,Statistics"
+2021,Mathematics
+2022,Quantitative Biology
+2023,"Computer Science,Mathematics,Statistics"
+2024,Physics
+2025,Physics
+2026,"Computer Science,Statistics"
+2027,Computer Science
+2028,Mathematics
+2029,Computer Science
+2030,Mathematics
+2031,Physics
+2032,Physics
+2033,"Computer Science,Statistics"
+2034,Physics
+2035,Mathematics
+2036,"Computer Science,Statistics"
+2037,Computer Science
+2038,"Computer Science,Statistics"
+2039,Statistics
+2040,Computer Science
+2041,Computer Science
+2042,Computer Science
+2043,Mathematics
+2044,Computer Science
+2045,Mathematics
+2046,"Computer Science,Statistics"
+2047,Computer Science
+2048,Physics
+2049,Computer Science
+2050,Computer Science
+2051,Computer Science
+2052,"Statistics,Quantitative Biology"
+2053,"Computer Science,Mathematics"
+2054,Physics
+2055,Physics
+2056,Mathematics
+2057,Mathematics
+2058,Physics
+2059,Quantitative Biology
+2060,Computer Science
+2061,Physics
+2062,Computer Science
+2063,"Computer Science,Statistics"
+2064,Mathematics
+2065,Statistics
+2066,Physics
+2067,Quantitative Finance
+2068,"Computer Science,Statistics"
+2069,Computer Science
+2070,Computer Science
+2071,Physics
+2072,Mathematics
+2073,"Mathematics,Statistics"
+2074,"Computer Science,Statistics"
+2075,Physics
+2076,Quantitative Biology
+2077,Computer Science
+2078,Mathematics
+2079,Mathematics
+2080,Physics
+2081,Physics
+2082,Physics
+2083,Physics
+2084,Mathematics
+2085,Computer Science
+2086,Mathematics
+2087,"Computer Science,Statistics"
+2088,Computer Science
+2089,Mathematics
+2090,"Computer Science,Mathematics"
+2091,"Computer Science,Statistics"
+2092,"Computer Science,Mathematics,Statistics"
+2093,Physics
+2094,Computer Science
+2095,Physics
+2096,Computer Science
+2097,Statistics
+2098,Physics
+2099,Computer Science
+2100,"Computer Science,Physics"
+2101,Computer Science
+2102,Mathematics
+2103,Mathematics
+2104,Physics
+2105,"Computer Science,Statistics"
+2106,Physics
+2107,Computer Science
+2108,Computer Science
+2109,"Physics,Mathematics"
+2110,Mathematics
+2111,"Computer Science,Statistics"
+2112,Statistics
+2113,"Physics,Mathematics"
+2114,Physics
+2115,Physics
+2116,Mathematics
+2117,Computer Science
+2118,"Computer Science,Statistics"
+2119,Physics
+2120,Statistics
+2121,Computer Science
+2122,"Computer Science,Physics"
+2123,Physics
+2124,Statistics
+2125,Physics
+2126,"Statistics,Quantitative Biology"
+2127,Mathematics
+2128,Mathematics
+2129,Computer Science
+2130,Quantitative Finance
+2131,Computer Science
+2132,Computer Science
+2133,Physics
+2134,"Computer Science,Statistics"
+2135,Computer Science
+2136,Computer Science
+2137,Physics
+2138,Computer Science
+2139,Mathematics
+2140,Computer Science
+2141,Computer Science
+2142,Mathematics
+2143,Mathematics
+2144,Mathematics
+2145,Statistics
+2146,Statistics
+2147,"Computer Science,Statistics"
+2148,Mathematics
+2149,"Computer Science,Mathematics,Statistics"
+2150,Computer Science
+2151,Mathematics
+2152,Statistics
+2153,"Computer Science,Mathematics"
+2154,Mathematics
+2155,"Computer Science,Statistics"
+2156,Computer Science
+2157,Mathematics
+2158,Statistics
+2159,"Computer Science,Mathematics,Statistics"
+2160,Statistics
+2161,Mathematics
+2162,Physics
+2163,Computer Science
+2164,"Mathematics,Statistics"
+2165,"Computer Science,Mathematics,Statistics"
+2166,Physics
+2167,Mathematics
+2168,Mathematics
+2169,"Computer Science,Mathematics"
+2170,Physics
+2171,Physics
+2172,Physics
+2173,Physics
+2174,Physics
+2175,Physics
+2176,Computer Science
+2177,Computer Science
+2178,"Computer Science,Physics"
+2179,Mathematics
+2180,Mathematics
+2181,Physics
+2182,Physics
+2183,Physics
+2184,Computer Science
+2185,Computer Science
+2186,"Computer Science,Statistics"
+2187,Physics
+2188,Physics
+2189,Physics
+2190,Physics
+2191,Computer Science
+2192,Physics
+2193,Computer Science
+2194,"Computer Science,Statistics"
+2195,Statistics
+2196,Computer Science
+2197,Physics
+2198,"Computer Science,Statistics"
+2199,Physics
+2200,"Physics,Mathematics"
+2201,Statistics
+2202,"Computer Science,Statistics"
+2203,Physics
+2204,Mathematics
+2205,Mathematics
+2206,Physics
+2207,Physics
+2208,Computer Science
+2209,Physics
+2210,Computer Science
+2211,Computer Science
+2212,Mathematics
+2213,Computer Science
+2214,Computer Science
+2215,Physics
+2216,Mathematics
+2217,Computer Science
+2218,Mathematics
+2219,Physics
+2220,Physics
+2221,Computer Science
+2222,Computer Science
+2223,Physics
+2224,Computer Science
+2225,Mathematics
+2226,"Mathematics,Statistics"
+2227,"Computer Science,Statistics"
+2228,Computer Science
+2229,Statistics
+2230,Statistics
+2231,Mathematics
+2232,"Computer Science,Statistics"
+2233,"Computer Science,Statistics"
+2234,Physics
+2235,"Computer Science,Statistics"
+2236,Mathematics
+2237,Computer Science
+2238,"Computer Science,Statistics"
+2239,Computer Science
+2240,Statistics
+2241,Computer Science
+2242,Statistics
+2243,Mathematics
+2244,Mathematics
+2245,"Computer Science,Statistics"
+2246,Statistics
+2247,Physics
+2248,Computer Science
+2249,Computer Science
+2250,Mathematics
+2251,Physics
+2252,Physics
+2253,"Computer Science,Statistics"
+2254,Computer Science
+2255,"Computer Science,Physics"
+2256,"Computer Science,Statistics"
+2257,Physics
+2258,Computer Science
+2259,Mathematics
+2260,Physics
+2261,"Computer Science,Statistics"
+2262,Statistics
+2263,Computer Science
+2264,"Mathematics,Statistics"
+2265,Physics
+2266,"Computer Science,Mathematics"
+2267,Physics
+2268,Statistics
+2269,Physics
+2270,Physics
+2271,Statistics
+2272,Mathematics
+2273,"Computer Science,Mathematics"
+2274,Physics
+2275,Mathematics
+2276,Physics
+2277,Statistics
+2278,Physics
+2279,Physics
+2280,Physics
+2281,"Computer Science,Statistics"
+2282,Physics
+2283,Computer Science
+2284,"Computer Science,Mathematics"
+2285,Mathematics
+2286,"Mathematics,Statistics"
+2287,Computer Science
+2288,Computer Science
+2289,Physics
+2290,Computer Science
+2291,Mathematics
+2292,Statistics
+2293,Physics
+2294,Physics
+2295,Physics
+2296,Physics
+2297,Physics
+2298,"Computer Science,Statistics"
+2299,Statistics
+2300,Computer Science
+2301,Physics
+2302,Mathematics
+2303,Computer Science
+2304,"Computer Science,Statistics"
+2305,Mathematics
+2306,Mathematics
+2307,Computer Science
+2308,Physics
+2309,Statistics
+2310,Physics
+2311,Computer Science
+2312,Computer Science
+2313,Computer Science
+2314,Mathematics
+2315,Mathematics
+2316,Quantitative Finance
+2317,"Computer Science,Statistics"
+2318,Physics
+2319,Mathematics
+2320,"Mathematics,Statistics"
+2321,Computer Science
+2322,"Computer Science,Statistics"
+2323,Statistics
+2324,Computer Science
+2325,Statistics
+2326,Mathematics
+2327,Mathematics
+2328,Physics
+2329,Mathematics
+2330,Computer Science
+2331,Computer Science
+2332,"Computer Science,Mathematics"
+2333,Computer Science
+2334,Physics
+2335,"Physics,Statistics"
+2336,Physics
+2337,Computer Science
+2338,Computer Science
+2339,Quantitative Finance
+2340,Mathematics
+2341,Computer Science
+2342,"Mathematics,Statistics"
+2343,Computer Science
+2344,"Computer Science,Statistics"
+2345,Physics
+2346,Quantitative Biology
+2347,"Computer Science,Statistics"
+2348,"Computer Science,Statistics"
+2349,"Computer Science,Statistics"
+2350,"Mathematics,Statistics"
+2351,Quantitative Biology
+2352,Mathematics
+2353,Physics
+2354,Mathematics
+2355,"Computer Science,Mathematics"
+2356,"Computer Science,Statistics"
+2357,Computer Science
+2358,Mathematics
+2359,Mathematics
+2360,"Computer Science,Statistics"
+2361,Physics
+2362,"Computer Science,Statistics"
+2363,Physics
+2364,Mathematics
+2365,"Computer Science,Physics"
+2366,Statistics
+2367,"Mathematics,Statistics"
+2368,Computer Science
+2369,"Mathematics,Statistics"
+2370,Mathematics
+2371,Computer Science
+2372,Mathematics
+2373,Computer Science
+2374,Physics
+2375,Mathematics
+2376,"Mathematics,Statistics"
+2377,Mathematics
+2378,"Mathematics,Statistics"
+2379,Computer Science
+2380,Computer Science
+2381,Computer Science
+2382,Physics
+2383,Mathematics
+2384,Physics
+2385,Physics
+2386,"Computer Science,Statistics"
+2387,"Computer Science,Statistics"
+2388,"Mathematics,Statistics"
+2389,Computer Science
+2390,Computer Science
+2391,Mathematics
+2392,"Computer Science,Statistics"
+2393,"Mathematics,Statistics"
+2394,Physics
+2395,Mathematics
+2396,Computer Science
+2397,"Computer Science,Statistics"
+2398,Mathematics
+2399,"Computer Science,Statistics"
+2400,Statistics
+2401,"Physics,Mathematics"
+2402,"Computer Science,Statistics"
+2403,Statistics
+2404,Computer Science
+2405,Statistics
+2406,Mathematics
+2407,"Computer Science,Mathematics"
+2408,"Computer Science,Mathematics"
+2409,"Computer Science,Statistics"
+2410,"Computer Science,Physics"
+2411,"Mathematics,Statistics"
+2412,Mathematics
+2413,Computer Science
+2414,Physics
+2415,Computer Science
+2416,Computer Science
+2417,Computer Science
+2418,Mathematics
+2419,"Mathematics,Statistics"
+2420,"Computer Science,Physics"
+2421,Physics
+2422,Physics
+2423,"Mathematics,Statistics"
+2424,Physics
+2425,Physics
+2426,Statistics
+2427,"Computer Science,Statistics"
+2428,Physics
+2429,Physics
+2430,Mathematics
+2431,Mathematics
+2432,Physics
+2433,"Computer Science,Statistics"
+2434,Mathematics
+2435,"Computer Science,Statistics"
+2436,Computer Science
+2437,Physics
+2438,Mathematics
+2439,Mathematics
+2440,Mathematics
+2441,Statistics
+2442,Mathematics
+2443,Mathematics
+2444,Physics
+2445,Computer Science
+2446,Physics
+2447,Physics
+2448,"Mathematics,Statistics"
+2449,Mathematics
+2450,Computer Science
+2451,Physics
+2452,Physics
+2453,Quantitative Biology
+2454,Physics
+2455,Mathematics
+2456,"Mathematics,Statistics"
+2457,Statistics
+2458,Physics
+2459,"Mathematics,Statistics"
+2460,Mathematics
+2461,Computer Science
+2462,Physics
+2463,Physics
+2464,Computer Science
+2465,Mathematics
+2466,Mathematics
+2467,"Computer Science,Statistics"
+2468,Physics
+2469,"Computer Science,Physics"
+2470,Statistics
+2471,Physics
+2472,Mathematics
+2473,"Computer Science,Statistics"
+2474,Physics
+2475,"Computer Science,Mathematics,Statistics"
+2476,Statistics
+2477,"Computer Science,Statistics"
+2478,Mathematics
+2479,"Computer Science,Statistics"
+2480,Statistics
+2481,Physics
+2482,Physics
+2483,Computer Science
+2484,"Mathematics,Statistics"
+2485,Computer Science
+2486,"Computer Science,Statistics"
+2487,Physics
+2488,Computer Science
+2489,Computer Science
+2490,Computer Science
+2491,Mathematics
+2492,Computer Science
+2493,"Computer Science,Statistics"
+2494,Physics
+2495,Computer Science
+2496,Computer Science
+2497,Mathematics
+2498,"Computer Science,Statistics"
+2499,Computer Science
+2500,Mathematics
+2501,"Computer Science,Statistics"
+2502,"Computer Science,Mathematics"
+2503,Mathematics
+2504,Computer Science
+2505,Computer Science
+2506,Statistics
+2507,Computer Science
+2508,"Computer Science,Statistics"
+2509,Computer Science
+2510,"Computer Science,Statistics"
+2511,Physics
+2512,"Mathematics,Statistics"
+2513,Physics
+2514,Mathematics
+2515,Computer Science
+2516,Physics
+2517,"Computer Science,Statistics"
+2518,Mathematics
+2519,Mathematics
+2520,Physics
+2521,Physics
+2522,Mathematics
+2523,Physics
+2524,"Computer Science,Statistics"
+2525,Physics
+2526,"Mathematics,Statistics"
+2527,Mathematics
+2528,Mathematics
+2529,Physics
+2530,Computer Science
+2531,"Mathematics,Statistics"
+2532,"Mathematics,Statistics"
+2533,"Computer Science,Statistics"
+2534,Mathematics
+2535,"Mathematics,Statistics"
+2536,Computer Science
+2537,Physics
+2538,Computer Science
+2539,Physics
+2540,Physics
+2541,"Computer Science,Statistics"
+2542,Mathematics
+2543,"Computer Science,Statistics"
+2544,Mathematics
+2545,Mathematics
+2546,Mathematics
+2547,Physics
+2548,"Computer Science,Mathematics"
+2549,Statistics
+2550,Mathematics
+2551,"Computer Science,Statistics"
+2552,Computer Science
+2553,Computer Science
+2554,Physics
+2555,"Mathematics,Statistics"
+2556,Computer Science
+2557,Mathematics
+2558,Physics
+2559,Physics
+2560,"Computer Science,Statistics"
+2561,Computer Science
+2562,"Mathematics,Statistics"
+2563,Physics
+2564,Physics
+2565,Physics
+2566,Computer Science
+2567,Physics
+2568,Mathematics
+2569,"Statistics,Quantitative Biology"
+2570,Computer Science
+2571,Mathematics
+2572,Computer Science
+2573,Computer Science
+2574,Mathematics
+2575,Physics
+2576,Mathematics
+2577,Physics
+2578,Physics
+2579,Quantitative Biology
+2580,Computer Science
+2581,Physics
+2582,"Physics,Mathematics"
+2583,"Computer Science,Statistics"
+2584,"Computer Science,Statistics"
+2585,"Computer Science,Mathematics"
+2586,Computer Science
+2587,Computer Science
+2588,Mathematics
+2589,Mathematics
+2590,Mathematics
+2591,Mathematics
+2592,Mathematics
+2593,"Computer Science,Statistics"
+2594,Computer Science
+2595,Statistics
+2596,Physics
+2597,Computer Science
+2598,Computer Science
+2599,Mathematics
+2600,"Computer Science,Statistics"
+2601,Physics
+2602,Physics
+2603,Physics
+2604,"Computer Science,Statistics"
+2605,Statistics
+2606,Mathematics
+2607,Mathematics
+2608,Statistics
+2609,"Computer Science,Physics"
+2610,Physics
+2611,"Computer Science,Mathematics"
+2612,Computer Science
+2613,Computer Science
+2614,Physics
+2615,Statistics
+2616,Mathematics
+2617,Mathematics
+2618,Mathematics
+2619,Mathematics
+2620,Computer Science
+2621,Computer Science
+2622,"Computer Science,Statistics"
+2623,Physics
+2624,"Computer Science,Mathematics,Statistics"
+2625,"Computer Science,Mathematics"
+2626,Physics
+2627,Statistics
+2628,"Mathematics,Statistics"
+2629,Quantitative Biology
+2630,Physics
+2631,Computer Science
+2632,Physics
+2633,Computer Science
+2634,Mathematics
+2635,Physics
+2636,Mathematics
+2637,Computer Science
+2638,Physics
+2639,"Computer Science,Statistics"
+2640,Quantitative Biology
+2641,"Mathematics,Statistics"
+2642,Mathematics
+2643,Physics
+2644,Computer Science
+2645,Mathematics
+2646,"Computer Science,Mathematics"
+2647,Physics
+2648,Physics
+2649,Computer Science
+2650,Quantitative Biology
+2651,Mathematics
+2652,Physics
+2653,Physics
+2654,Physics
+2655,Mathematics
+2656,Physics
+2657,Physics
+2658,Mathematics
+2659,Physics
+2660,Computer Science
+2661,Physics
+2662,Physics
+2663,"Physics,Statistics"
+2664,Mathematics
+2665,Physics
+2666,"Mathematics,Statistics"
+2667,Statistics
+2668,Physics
+2669,"Computer Science,Statistics"
+2670,"Statistics,Quantitative Biology"
+2671,Physics
+2672,Computer Science
+2673,"Mathematics,Statistics"
+2674,"Mathematics,Statistics"
+2675,Physics
+2676,Mathematics
+2677,Mathematics
+2678,Physics
+2679,Physics
+2680,Computer Science
+2681,"Computer Science,Statistics"
+2682,Mathematics
+2683,Computer Science
+2684,Physics
+2685,"Statistics,Quantitative Finance"
+2686,"Mathematics,Statistics"
+2687,Mathematics
+2688,Physics
+2689,"Computer Science,Statistics"
+2690,"Computer Science,Physics"
+2691,Statistics
+2692,Computer Science
+2693,Mathematics
+2694,Physics
+2695,Computer Science
+2696,Computer Science
+2697,Physics
+2698,Mathematics
+2699,"Computer Science,Statistics"
+2700,Physics
+2701,"Computer Science,Statistics"
+2702,Computer Science
+2703,Computer Science
+2704,Physics
+2705,"Mathematics,Statistics"
+2706,Physics
+2707,Physics
+2708,Computer Science
+2709,Computer Science
+2710,Mathematics
+2711,Computer Science
+2712,Statistics
+2713,Physics
+2714,Physics
+2715,"Computer Science,Statistics"
+2716,Mathematics
+2717,Computer Science
+2718,Mathematics
+2719,Computer Science
+2720,"Computer Science,Statistics"
+2721,Mathematics
+2722,Mathematics
+2723,"Statistics,Quantitative Biology"
+2724,"Computer Science,Physics"
+2725,Mathematics
+2726,Computer Science
+2727,Computer Science
+2728,Physics
+2729,Statistics
+2730,"Mathematics,Statistics"
+2731,Mathematics
+2732,Physics
+2733,"Computer Science,Mathematics"
+2734,Computer Science
+2735,Statistics
+2736,Computer Science
+2737,"Computer Science,Mathematics"
+2738,Computer Science
+2739,Physics
+2740,Physics
+2741,"Computer Science,Mathematics"
+2742,Physics
+2743,"Computer Science,Statistics"
+2744,Statistics
+2745,Physics
+2746,Mathematics
+2747,Statistics
+2748,Physics
+2749,Computer Science
+2750,"Computer Science,Mathematics,Statistics"
+2751,Statistics
+2752,Computer Science
+2753,Physics
+2754,"Computer Science,Statistics"
+2755,Mathematics
+2756,Physics
+2757,Statistics
+2758,Computer Science
+2759,"Computer Science,Mathematics"
+2760,Computer Science
+2761,Physics
+2762,Computer Science
+2763,Computer Science
+2764,Mathematics
+2765,Physics
+2766,Physics
+2767,"Computer Science,Mathematics"
+2768,Mathematics
+2769,Physics
+2770,Mathematics
+2771,"Mathematics,Statistics"
+2772,Computer Science
+2773,Computer Science
+2774,"Computer Science,Physics"
+2775,Physics
+2776,"Mathematics,Statistics"
+2777,Mathematics
+2778,Computer Science
+2779,Mathematics
+2780,Mathematics
+2781,Physics
+2782,Physics
+2783,Mathematics
+2784,"Mathematics,Statistics"
+2785,"Computer Science,Mathematics"
+2786,Computer Science
+2787,"Computer Science,Statistics"
+2788,Statistics
+2789,Computer Science
+2790,Computer Science
+2791,Statistics
+2792,Computer Science
+2793,Mathematics
+2794,Computer Science
+2795,Mathematics
+2796,Mathematics
+2797,"Computer Science,Statistics"
+2798,"Computer Science,Mathematics"
+2799,Physics
+2800,Mathematics
+2801,Mathematics
+2802,Mathematics
+2803,Mathematics
+2804,Physics
+2805,Mathematics
+2806,Physics
+2807,Statistics
+2808,Computer Science
+2809,Computer Science
+2810,Physics
+2811,Mathematics
+2812,Statistics
+2813,Computer Science
+2814,Mathematics
+2815,Mathematics
+2816,"Mathematics,Statistics"
+2817,Computer Science
+2818,"Computer Science,Statistics"
+2819,Statistics
+2820,Physics
+2821,Computer Science
+2822,Physics
+2823,Mathematics
+2824,Mathematics
+2825,Physics
+2826,Statistics
+2827,"Computer Science,Statistics"
+2828,Computer Science
+2829,Physics
+2830,Quantitative Biology
+2831,"Computer Science,Statistics"
+2832,"Computer Science,Statistics"
+2833,Quantitative Biology
+2834,Computer Science
+2835,"Computer Science,Statistics"
+2836,"Computer Science,Statistics"
+2837,Mathematics
+2838,Physics
+2839,Computer Science
+2840,"Computer Science,Statistics"
+2841,Physics
+2842,Mathematics
+2843,Mathematics
+2844,Computer Science
+2845,Mathematics
+2846,Computer Science
+2847,Physics
+2848,Computer Science
+2849,Statistics
+2850,Computer Science
+2851,Computer Science
+2852,"Computer Science,Mathematics"
+2853,Statistics
+2854,"Computer Science,Physics"
+2855,Physics
+2856,Mathematics
+2857,Computer Science
+2858,Computer Science
+2859,Physics
+2860,Computer Science
+2861,Physics
+2862,Computer Science
+2863,Computer Science
+2864,Mathematics
+2865,Computer Science
+2866,Mathematics
+2867,Computer Science
+2868,Computer Science
+2869,Mathematics
+2870,Physics
+2871,Physics
+2872,Mathematics
+2873,"Computer Science,Mathematics"
+2874,Physics
+2875,Computer Science
+2876,Computer Science
+2877,"Mathematics,Statistics"
+2878,Mathematics
+2879,Mathematics
+2880,Computer Science
+2881,"Computer Science,Statistics"
+2882,Computer Science
+2883,Computer Science
+2884,Physics
+2885,Statistics
+2886,Computer Science
+2887,Mathematics
+2888,Computer Science
+2889,Quantitative Biology
+2890,Physics
+2891,Computer Science
+2892,Computer Science
+2893,Mathematics
+2894,Physics
+2895,Physics
+2896,Computer Science
+2897,Mathematics
+2898,Statistics
+2899,Mathematics
+2900,Mathematics
+2901,Physics
+2902,Computer Science
+2903,Computer Science
+2904,Computer Science
+2905,Mathematics
+2906,Mathematics
+2907,Statistics
+2908,Physics
+2909,Mathematics
+2910,Physics
+2911,Mathematics
+2912,Mathematics
+2913,Physics
+2914,Physics
+2915,"Computer Science,Statistics"
+2916,Computer Science
+2917,Mathematics
+2918,Physics
+2919,Physics
+2920,Computer Science
+2921,"Computer Science,Statistics"
+2922,Physics
+2923,"Computer Science,Mathematics"
+2924,Physics
+2925,Physics
+2926,Computer Science
+2927,Computer Science
+2928,Mathematics
+2929,Computer Science
+2930,Computer Science
+2931,Computer Science
+2932,Mathematics
+2933,Physics
+2934,"Computer Science,Mathematics"
+2935,Physics
+2936,Computer Science
+2937,"Computer Science,Mathematics"
+2938,Physics
+2939,Statistics
+2940,Mathematics
+2941,Computer Science
+2942,Physics
+2943,Mathematics
+2944,Quantitative Biology
+2945,Mathematics
+2946,Computer Science
+2947,Physics
+2948,Mathematics
+2949,Computer Science
+2950,Mathematics
+2951,Physics
+2952,Computer Science
+2953,Physics
+2954,Statistics
+2955,Computer Science
+2956,Physics
+2957,"Computer Science,Statistics"
+2958,Mathematics
+2959,Physics
+2960,"Computer Science,Statistics"
+2961,Statistics
+2962,Computer Science
+2963,Physics
+2964,"Mathematics,Statistics"
+2965,"Computer Science,Mathematics,Statistics"
+2966,Physics
+2967,"Computer Science,Statistics"
+2968,"Computer Science,Statistics"
+2969,Mathematics
+2970,"Computer Science,Statistics"
+2971,Mathematics
+2972,Physics
+2973,Physics
+2974,"Computer Science,Statistics"
+2975,Computer Science
+2976,Computer Science
+2977,Physics
+2978,Physics
+2979,Physics
+2980,Mathematics
+2981,Computer Science
+2982,Mathematics
+2983,Mathematics
+2984,Computer Science
+2985,Computer Science
+2986,Physics
+2987,Computer Science
+2988,Physics
+2989,Computer Science
+2990,Physics
+2991,Physics
+2992,Physics
+2993,Physics
+2994,"Computer Science,Statistics"
+2995,Computer Science
+2996,"Mathematics,Statistics"
+2997,Computer Science
+2998,Computer Science
+2999,Computer Science
+3000,Computer Science
+3001,Mathematics
+3002,Statistics
+3003,Physics
+3004,Physics
+3005,Physics
+3006,"Physics,Mathematics"
+3007,"Computer Science,Statistics"
+3008,Mathematics
+3009,Computer Science
+3010,Physics
+3011,Quantitative Biology
+3012,Computer Science
+3013,Mathematics
+3014,Computer Science
+3015,Computer Science
+3016,Computer Science
+3017,Physics
+3018,Physics
+3019,Mathematics
+3020,Statistics
+3021,"Computer Science,Statistics"
+3022,Statistics
+3023,Physics
+3024,Computer Science
+3025,Mathematics
+3026,Computer Science
+3027,Statistics
+3028,Physics
+3029,Mathematics
+3030,Computer Science
+3031,Computer Science
+3032,Mathematics
+3033,Computer Science
+3034,Statistics
+3035,Physics
+3036,Statistics
+3037,Computer Science
+3038,Mathematics
+3039,Physics
+3040,Physics
+3041,"Computer Science,Statistics"
+3042,Mathematics
+3043,"Mathematics,Statistics"
+3044,Mathematics
+3045,Physics
+3046,Mathematics
+3047,Physics
+3048,Mathematics
+3049,Physics
+3050,Statistics
+3051,"Mathematics,Statistics"
+3052,Physics
+3053,Mathematics
+3054,Mathematics
+3055,Computer Science
+3056,Computer Science
+3057,"Computer Science,Statistics"
+3058,Computer Science
+3059,Computer Science
+3060,Computer Science
+3061,Computer Science
+3062,"Computer Science,Statistics"
+3063,"Mathematics,Statistics"
+3064,Computer Science
+3065,Mathematics
+3066,Mathematics
+3067,Mathematics
+3068,Computer Science
+3069,Computer Science
+3070,"Computer Science,Statistics"
+3071,"Computer Science,Statistics"
+3072,Mathematics
+3073,Physics
+3074,"Computer Science,Statistics"
+3075,Mathematics
+3076,Computer Science
+3077,Statistics
+3078,"Mathematics,Statistics"
+3079,"Mathematics,Statistics"
+3080,Computer Science
+3081,Computer Science
+3082,"Statistics,Quantitative Biology"
+3083,Physics
+3084,Statistics
+3085,Computer Science
+3086,Physics
+3087,"Mathematics,Statistics"
+3088,Physics
+3089,"Computer Science,Mathematics"
+3090,Physics
+3091,Computer Science
+3092,Physics
+3093,Statistics
+3094,Physics
+3095,Mathematics
+3096,"Computer Science,Statistics"
+3097,Physics
+3098,Physics
+3099,Computer Science
+3100,Physics
+3101,Computer Science
+3102,"Computer Science,Statistics"
+3103,Physics
+3104,"Computer Science,Statistics"
+3105,Computer Science
+3106,Computer Science
+3107,"Mathematics,Statistics"
+3108,"Computer Science,Statistics"
+3109,"Computer Science,Statistics"
+3110,Physics
+3111,"Computer Science,Mathematics"
+3112,"Computer Science,Statistics"
+3113,"Computer Science,Statistics"
+3114,Physics
+3115,Computer Science
+3116,Computer Science
+3117,Physics
+3118,Computer Science
+3119,"Computer Science,Statistics"
+3120,Mathematics
+3121,Physics
+3122,Physics
+3123,Mathematics
+3124,Computer Science
+3125,Computer Science
+3126,Computer Science
+3127,Mathematics
+3128,Statistics
+3129,Mathematics
+3130,Quantitative Biology
+3131,Statistics
+3132,Statistics
+3133,Mathematics
+3134,Physics
+3135,Computer Science
+3136,Physics
+3137,Physics
+3138,"Computer Science,Mathematics,Statistics"
+3139,Computer Science
+3140,Computer Science
+3141,Physics
+3142,Computer Science
+3143,Mathematics
+3144,Mathematics
+3145,Quantitative Finance
+3146,Physics
+3147,Physics
+3148,"Computer Science,Mathematics"
+3149,Physics
+3150,Statistics
+3151,Computer Science
+3152,Computer Science
+3153,Physics
+3154,Physics
+3155,Computer Science
+3156,Physics
+3157,"Computer Science,Statistics"
+3158,Physics
+3159,Physics
+3160,Physics
+3161,Physics
+3162,Physics
+3163,Computer Science
+3164,Mathematics
+3165,Statistics
+3166,Computer Science
+3167,"Computer Science,Statistics"
+3168,"Computer Science,Mathematics"
+3169,"Computer Science,Statistics"
+3170,Physics
+3171,"Mathematics,Statistics"
+3172,Quantitative Biology
+3173,Physics
+3174,Physics
+3175,Physics
+3176,Mathematics
+3177,Computer Science
+3178,Computer Science
+3179,Physics
+3180,Physics
+3181,Computer Science
+3182,Statistics
+3183,Mathematics
+3184,"Computer Science,Mathematics"
+3185,Computer Science
+3186,Computer Science
+3187,Computer Science
+3188,Statistics
+3189,"Computer Science,Mathematics"
+3190,Physics
+3191,"Computer Science,Statistics"
+3192,Mathematics
+3193,"Computer Science,Statistics"
+3194,Physics
+3195,"Computer Science,Statistics"
+3196,Statistics
+3197,Physics
+3198,"Computer Science,Physics"
+3199,Quantitative Biology
+3200,Mathematics
+3201,Computer Science
+3202,"Mathematics,Statistics"
+3203,Mathematics
+3204,Computer Science
+3205,Physics
+3206,Computer Science
+3207,Computer Science
+3208,Physics
+3209,Physics
+3210,Computer Science
+3211,Physics
+3212,Physics
+3213,Statistics
+3214,"Computer Science,Statistics"
+3215,Statistics
+3216,Mathematics
+3217,"Computer Science,Statistics"
+3218,Computer Science
+3219,Mathematics
+3220,Computer Science
+3221,Physics
+3222,Computer Science
+3223,Quantitative Finance
+3224,Computer Science
+3225,Mathematics
+3226,Computer Science
+3227,Statistics
+3228,Computer Science
+3229,Mathematics
+3230,Physics
+3231,Physics
+3232,Statistics
+3233,"Mathematics,Statistics"
+3234,"Computer Science,Statistics"
+3235,"Computer Science,Statistics"
+3236,Computer Science
+3237,Mathematics
+3238,Computer Science
+3239,Mathematics
+3240,Mathematics
+3241,Mathematics
+3242,"Computer Science,Statistics"
+3243,Physics
+3244,Physics
+3245,Computer Science
+3246,Computer Science
+3247,Mathematics
+3248,"Computer Science,Statistics"
+3249,Mathematics
+3250,Physics
+3251,"Computer Science,Physics"
+3252,Computer Science
+3253,Computer Science
+3254,Computer Science
+3255,Computer Science
+3256,Computer Science
+3257,"Computer Science,Statistics"
+3258,Computer Science
+3259,Physics
+3260,Statistics
+3261,Physics
+3262,Statistics
+3263,Physics
+3264,Physics
+3265,"Mathematics,Statistics"
+3266,Physics
+3267,Statistics
+3268,"Mathematics,Statistics"
+3269,Computer Science
+3270,"Computer Science,Statistics"
+3271,"Computer Science,Statistics"
+3272,Quantitative Biology
+3273,Computer Science
+3274,Statistics
+3275,Physics
+3276,Mathematics
+3277,"Computer Science,Statistics"
+3278,Computer Science
+3279,Quantitative Biology
+3280,Mathematics
+3281,Physics
+3282,Physics
+3283,Physics
+3284,"Computer Science,Physics"
+3285,Computer Science
+3286,Statistics
+3287,"Mathematics,Statistics"
+3288,Computer Science
+3289,"Computer Science,Mathematics"
+3290,"Computer Science,Statistics"
+3291,"Computer Science,Statistics"
+3292,Quantitative Biology
+3293,Mathematics
+3294,Computer Science
+3295,Mathematics
+3296,Physics
+3297,Computer Science
+3298,Physics
+3299,"Computer Science,Statistics"
+3300,Statistics
+3301,Mathematics
+3302,Physics
+3303,Mathematics
+3304,"Computer Science,Statistics"
+3305,"Mathematics,Statistics"
+3306,"Computer Science,Statistics"
+3307,Computer Science
+3308,Statistics
+3309,"Computer Science,Statistics"
+3310,Physics
+3311,Computer Science
+3312,Mathematics
+3313,Computer Science
+3314,"Computer Science,Statistics"
+3315,Physics
+3316,Quantitative Biology
+3317,Computer Science
+3318,"Physics,Mathematics"
+3319,Statistics
+3320,Physics
+3321,Physics
+3322,Computer Science
+3323,Physics
+3324,"Computer Science,Statistics"
+3325,Mathematics
+3326,Computer Science
+3327,Computer Science
+3328,"Mathematics,Statistics"
+3329,Physics
+3330,Physics
+3331,Mathematics
+3332,Mathematics
+3333,Physics
+3334,Mathematics
+3335,Computer Science
+3336,Mathematics
+3337,Computer Science
+3338,Mathematics
+3339,Mathematics
+3340,Computer Science
+3341,"Computer Science,Statistics"
+3342,"Computer Science,Mathematics"
+3343,"Computer Science,Statistics"
+3344,Physics
+3345,Computer Science
+3346,Mathematics
+3347,Statistics
+3348,"Mathematics,Statistics"
+3349,Mathematics
+3350,Physics
+3351,"Physics,Mathematics"
+3352,Physics
+3353,Mathematics
+3354,Physics
+3355,"Mathematics,Statistics"
+3356,Physics
+3357,Physics
+3358,Physics
+3359,"Physics,Statistics"
+3360,"Physics,Mathematics"
+3361,"Computer Science,Statistics"
+3362,Mathematics
+3363,Mathematics
+3364,"Computer Science,Statistics"
+3365,Physics
+3366,Statistics
+3367,"Computer Science,Mathematics,Statistics"
+3368,Quantitative Biology
+3369,Physics
+3370,Computer Science
+3371,Mathematics
+3372,"Computer Science,Statistics"
+3373,"Physics,Statistics"
+3374,Physics
+3375,Statistics
+3376,Computer Science
+3377,Physics
+3378,Physics
+3379,Computer Science
+3380,Statistics
+3381,Computer Science
+3382,Computer Science
+3383,Mathematics
+3384,Mathematics
+3385,"Statistics,Quantitative Biology"
+3386,"Computer Science,Statistics"
+3387,"Computer Science,Statistics"
+3388,Computer Science
+3389,Mathematics
+3390,Computer Science
+3391,Computer Science
+3392,Physics
+3393,Physics
+3394,"Computer Science,Mathematics"
+3395,Mathematics
+3396,"Computer Science,Statistics"
+3397,Computer Science
+3398,Computer Science
+3399,"Computer Science,Mathematics"
+3400,Computer Science
+3401,"Computer Science,Statistics"
+3402,Mathematics
+3403,Computer Science
+3404,Physics
+3405,Computer Science
+3406,Physics
+3407,Computer Science
+3408,"Computer Science,Statistics"
+3409,Computer Science
+3410,Mathematics
+3411,Computer Science
+3412,Physics
+3413,Physics
+3414,Mathematics
+3415,Physics
+3416,"Computer Science,Statistics"
+3417,Quantitative Finance
+3418,Computer Science
+3419,Physics
+3420,Computer Science
+3421,Physics
+3422,Physics
+3423,Statistics
+3424,Physics
+3425,"Computer Science,Statistics"
+3426,Mathematics
+3427,Statistics
+3428,Physics
+3429,Computer Science
+3430,"Computer Science,Statistics"
+3431,Computer Science
+3432,Computer Science
+3433,"Mathematics,Statistics"
+3434,Statistics
+3435,Mathematics
+3436,Physics
+3437,Computer Science
+3438,Physics
+3439,Physics
+3440,Physics
+3441,Computer Science
+3442,Computer Science
+3443,Statistics
+3444,Physics
+3445,Mathematics
+3446,Computer Science
+3447,Physics
+3448,"Computer Science,Mathematics"
+3449,Computer Science
+3450,Mathematics
+3451,Mathematics
+3452,Computer Science
+3453,Mathematics
+3454,Physics
+3455,"Computer Science,Statistics"
+3456,Computer Science
+3457,"Computer Science,Physics"
+3458,Mathematics
+3459,Physics
+3460,Computer Science
+3461,Mathematics
+3462,"Computer Science,Statistics"
+3463,"Computer Science,Statistics"
+3464,"Computer Science,Mathematics,Statistics"
+3465,Computer Science
+3466,Mathematics
+3467,"Computer Science,Statistics"
+3468,Mathematics
+3469,Statistics
+3470,Mathematics
+3471,Computer Science
+3472,Physics
+3473,Mathematics
+3474,Physics
+3475,"Computer Science,Statistics"
+3476,Mathematics
+3477,Physics
+3478,Computer Science
+3479,Mathematics
+3480,Mathematics
+3481,Physics
+3482,"Computer Science,Statistics"
+3483,Physics
+3484,"Physics,Mathematics"
+3485,Physics
+3486,Physics
+3487,"Computer Science,Statistics"
+3488,Mathematics
+3489,Mathematics
+3490,"Computer Science,Statistics"
+3491,Physics
+3492,Physics
+3493,Physics
+3494,Physics
+3495,Computer Science
+3496,Statistics
+3497,Physics
+3498,Physics
+3499,Physics
+3500,Mathematics
+3501,Statistics
+3502,Statistics
+3503,Statistics
+3504,Mathematics
+3505,Computer Science
+3506,Quantitative Finance
+3507,Mathematics
+3508,Computer Science
+3509,Mathematics
+3510,Physics
+3511,Physics
+3512,Physics
+3513,"Computer Science,Statistics"
+3514,Computer Science
+3515,Computer Science
+3516,"Computer Science,Statistics"
+3517,Physics
+3518,Computer Science
+3519,Computer Science
+3520,"Computer Science,Mathematics"
+3521,Mathematics
+3522,Physics
+3523,Computer Science
+3524,"Computer Science,Statistics"
+3525,"Computer Science,Statistics"
+3526,Computer Science
+3527,Mathematics
+3528,"Computer Science,Statistics"
+3529,Computer Science
+3530,"Computer Science,Mathematics"
+3531,Physics
+3532,Computer Science
+3533,Statistics
+3534,"Computer Science,Statistics"
+3535,Quantitative Biology
+3536,Mathematics
+3537,Computer Science
+3538,Mathematics
+3539,Computer Science
+3540,Mathematics
+3541,Computer Science
+3542,"Statistics,Quantitative Biology"
+3543,Mathematics
+3544,"Computer Science,Mathematics"
+3545,Statistics
+3546,"Computer Science,Mathematics"
+3547,Computer Science
+3548,"Mathematics,Statistics"
+3549,Mathematics
+3550,Computer Science
+3551,Computer Science
+3552,"Computer Science,Physics"
+3553,Physics
+3554,Statistics
+3555,Physics
+3556,Computer Science
+3557,"Computer Science,Statistics"
+3558,Mathematics
+3559,"Mathematics,Statistics"
+3560,Computer Science
+3561,Computer Science
+3562,Mathematics
+3563,"Computer Science,Mathematics"
+3564,Physics
+3565,Physics
+3566,Physics
+3567,Statistics
+3568,Mathematics
+3569,Physics
+3570,"Computer Science,Statistics"
+3571,Mathematics
+3572,"Computer Science,Statistics"
+3573,Computer Science
+3574,Computer Science
+3575,Computer Science
+3576,Mathematics
+3577,Physics
+3578,Statistics
+3579,Physics
+3580,Mathematics
+3581,Physics
+3582,"Computer Science,Physics"
+3583,Physics
+3584,Mathematics
+3585,Physics
+3586,Computer Science
+3587,Mathematics
+3588,Computer Science
+3589,Mathematics
+3590,Mathematics
+3591,Physics
+3592,Physics
+3593,Mathematics
+3594,Physics
+3595,Statistics
+3596,"Computer Science,Statistics"
+3597,Computer Science
+3598,Computer Science
+3599,Computer Science
+3600,"Computer Science,Mathematics,Statistics"
+3601,Physics
+3602,Mathematics
+3603,Computer Science
+3604,Physics
+3605,Computer Science
+3606,"Computer Science,Statistics"
+3607,Mathematics
+3608,Physics
+3609,Mathematics
+3610,Computer Science
+3611,"Mathematics,Statistics"
+3612,"Mathematics,Statistics"
+3613,Physics
+3614,Physics
+3615,Computer Science
+3616,"Computer Science,Physics"
+3617,Physics
+3618,Mathematics
+3619,"Computer Science,Mathematics"
+3620,Physics
+3621,Computer Science
+3622,Computer Science
+3623,Computer Science
+3624,"Physics,Statistics"
+3625,Physics
+3626,Physics
+3627,"Computer Science,Mathematics"
+3628,Physics
+3629,"Computer Science,Statistics"
+3630,Physics
+3631,"Computer Science,Statistics"
+3632,"Physics,Mathematics"
+3633,Computer Science
+3634,Computer Science
+3635,Mathematics
+3636,Statistics
+3637,Physics
+3638,Computer Science
+3639,Physics
+3640,"Mathematics,Statistics"
+3641,Statistics
+3642,Mathematics
+3643,Computer Science
+3644,"Computer Science,Statistics"
+3645,Statistics
+3646,Computer Science
+3647,Computer Science
+3648,Mathematics
+3649,Computer Science
+3650,Computer Science
+3651,"Computer Science,Statistics"
+3652,"Computer Science,Statistics"
+3653,Mathematics
+3654,Mathematics
+3655,"Computer Science,Statistics"
+3656,Statistics
+3657,Physics
+3658,Mathematics
+3659,"Physics,Mathematics"
+3660,Mathematics
+3661,"Computer Science,Statistics"
+3662,Statistics
+3663,Statistics
+3664,Physics
+3665,"Computer Science,Mathematics,Statistics"
+3666,Physics
+3667,Mathematics
+3668,Physics
+3669,Physics
+3670,Physics
+3671,Physics
+3672,Computer Science
+3673,Physics
+3674,Computer Science
+3675,Physics
+3676,Computer Science
+3677,Computer Science
+3678,"Computer Science,Mathematics,Statistics"
+3679,Mathematics
+3680,Statistics
+3681,Mathematics
+3682,Physics
+3683,Statistics
+3684,"Computer Science,Statistics"
+3685,"Mathematics,Statistics"
+3686,Physics
+3687,"Computer Science,Statistics"
+3688,Statistics
+3689,Mathematics
+3690,"Physics,Mathematics"
+3691,Physics
+3692,"Computer Science,Statistics"
+3693,Computer Science
+3694,Computer Science
+3695,Physics
+3696,Statistics
+3697,Mathematics
+3698,Mathematics
+3699,"Physics,Statistics"
+3700,Computer Science
+3701,Physics
+3702,"Computer Science,Statistics"
+3703,"Computer Science,Statistics"
+3704,"Computer Science,Physics"
+3705,Statistics
+3706,"Statistics,Quantitative Finance"
+3707,Statistics
+3708,Computer Science
+3709,Mathematics
+3710,Mathematics
+3711,Physics
+3712,Mathematics
+3713,Computer Science
+3714,Quantitative Finance
+3715,Physics
+3716,Statistics
+3717,Statistics
+3718,Physics
+3719,"Computer Science,Physics"
+3720,Mathematics
+3721,Computer Science
+3722,Computer Science
+3723,Computer Science
+3724,Mathematics
+3725,Quantitative Finance
+3726,Physics
+3727,Mathematics
+3728,Computer Science
+3729,Computer Science
+3730,"Computer Science,Statistics"
+3731,Physics
+3732,Physics
+3733,Mathematics
+3734,"Computer Science,Statistics"
+3735,Physics
+3736,"Computer Science,Statistics"
+3737,Computer Science
+3738,"Mathematics,Statistics"
+3739,Computer Science
+3740,"Computer Science,Statistics"
+3741,Mathematics
+3742,Computer Science
+3743,Physics
+3744,Physics
+3745,Computer Science
+3746,Computer Science
+3747,Computer Science
+3748,"Computer Science,Statistics"
+3749,Physics
+3750,Mathematics
+3751,"Computer Science,Statistics"
+3752,Mathematics
+3753,Mathematics
+3754,Physics
+3755,Statistics
+3756,"Computer Science,Statistics"
+3757,Computer Science
+3758,"Computer Science,Statistics"
+3759,Computer Science
+3760,Mathematics
+3761,Computer Science
+3762,Computer Science
+3763,Physics
+3764,Computer Science
+3765,"Computer Science,Statistics"
+3766,Mathematics
+3767,"Computer Science,Statistics"
+3768,Physics
+3769,Statistics
+3770,Computer Science
+3771,Computer Science
+3772,Computer Science
+3773,Physics
+3774,Computer Science
+3775,Physics
+3776,Computer Science
+3777,"Mathematics,Statistics"
+3778,Quantitative Finance
+3779,"Computer Science,Statistics"
+3780,Computer Science
+3781,Physics
+3782,Computer Science
+3783,Physics
+3784,Mathematics
+3785,Mathematics
+3786,"Physics,Mathematics"
+3787,"Computer Science,Statistics"
+3788,Physics
+3789,Mathematics
+3790,Computer Science
+3791,Mathematics
+3792,Physics
+3793,Physics
+3794,Mathematics
+3795,Mathematics
+3796,Physics
+3797,Physics
+3798,Computer Science
+3799,Computer Science
+3800,"Computer Science,Statistics"
+3801,Statistics
+3802,Statistics
+3803,Computer Science
+3804,Mathematics
+3805,Mathematics
+3806,"Computer Science,Statistics"
+3807,"Computer Science,Statistics"
+3808,"Mathematics,Statistics"
+3809,Quantitative Finance
+3810,Physics
+3811,Mathematics
+3812,Mathematics
+3813,"Computer Science,Mathematics"
+3814,"Computer Science,Statistics"
+3815,"Computer Science,Mathematics"
+3816,"Computer Science,Physics"
+3817,Mathematics
+3818,"Computer Science,Statistics"
+3819,Computer Science
+3820,Physics
+3821,"Computer Science,Statistics"
+3822,Physics
+3823,Physics
+3824,"Computer Science,Statistics"
+3825,Mathematics
+3826,Physics
+3827,Computer Science
+3828,Physics
+3829,Computer Science
+3830,Computer Science
+3831,Mathematics
+3832,Physics
+3833,"Computer Science,Statistics"
+3834,Physics
+3835,Statistics
+3836,Physics
+3837,"Computer Science,Statistics"
+3838,Physics
+3839,Computer Science
+3840,"Computer Science,Statistics"
+3841,"Mathematics,Statistics"
+3842,Computer Science
+3843,Statistics
+3844,Physics
+3845,"Computer Science,Statistics"
+3846,Computer Science
+3847,Physics
+3848,Physics
+3849,"Computer Science,Mathematics"
+3850,"Computer Science,Mathematics"
+3851,Mathematics
+3852,Computer Science
+3853,Statistics
+3854,Mathematics
+3855,Computer Science
+3856,Physics
+3857,Physics
+3858,Physics
+3859,Mathematics
+3860,Computer Science
+3861,Mathematics
+3862,Statistics
+3863,Computer Science
+3864,Mathematics
+3865,"Physics,Mathematics"
+3866,Physics
+3867,Physics
+3868,Statistics
+3869,"Computer Science,Statistics"
+3870,Physics
+3871,Computer Science
+3872,Mathematics
+3873,"Computer Science,Mathematics"
+3874,"Mathematics,Statistics"
+3875,"Computer Science,Statistics"
+3876,Physics
+3877,"Computer Science,Statistics"
+3878,Physics
+3879,Physics
+3880,Mathematics
+3881,Computer Science
+3882,Physics
+3883,"Physics,Statistics"
+3884,"Computer Science,Statistics"
+3885,Mathematics
+3886,Computer Science
+3887,Physics
+3888,"Mathematics,Statistics"
+3889,"Computer Science,Physics"
+3890,"Computer Science,Statistics"
+3891,Computer Science
+3892,Computer Science
+3893,Mathematics
+3894,Mathematics
+3895,Physics
+3896,Statistics
+3897,Statistics
+3898,Physics
+3899,"Computer Science,Statistics"
+3900,Computer Science
+3901,Quantitative Biology
+3902,Physics
+3903,Quantitative Biology
+3904,"Computer Science,Statistics"
+3905,"Computer Science,Statistics"
+3906,Physics
+3907,Statistics
+3908,"Mathematics,Statistics"
+3909,Computer Science
+3910,Physics
+3911,Computer Science
+3912,Physics
+3913,"Computer Science,Statistics"
+3914,Physics
+3915,Statistics
+3916,Computer Science
+3917,"Computer Science,Statistics"
+3918,Physics
+3919,Statistics
+3920,Mathematics
+3921,"Computer Science,Physics"
+3922,Physics
+3923,Mathematics
+3924,Computer Science
+3925,Physics
+3926,Mathematics
+3927,Physics
+3928,Computer Science
+3929,Physics
+3930,Physics
+3931,Statistics
+3932,Physics
+3933,Physics
+3934,"Mathematics,Statistics"
+3935,"Computer Science,Statistics"
+3936,Statistics
+3937,"Computer Science,Statistics"
+3938,Mathematics
+3939,"Computer Science,Statistics"
+3940,Physics
+3941,Computer Science
+3942,"Computer Science,Statistics"
+3943,"Mathematics,Statistics"
+3944,Computer Science
+3945,Physics
+3946,Physics
+3947,Physics
+3948,Statistics
+3949,Physics
+3950,"Mathematics,Statistics"
+3951,Mathematics
+3952,Physics
+3953,Computer Science
+3954,Physics
+3955,Computer Science
+3956,"Computer Science,Statistics"
+3957,Physics
+3958,Mathematics
+3959,Statistics
+3960,Computer Science
+3961,Physics
+3962,"Mathematics,Statistics"
+3963,Mathematics
+3964,Mathematics
+3965,Mathematics
+3966,"Computer Science,Mathematics"
+3967,"Computer Science,Statistics"
+3968,"Mathematics,Statistics"
+3969,Computer Science
+3970,Computer Science
+3971,Physics
