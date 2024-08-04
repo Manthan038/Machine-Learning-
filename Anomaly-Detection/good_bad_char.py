@@ -44,3 +44,42 @@ print(f'Loss: {loss}, Accuracy: {accuracy}')
 # Make predictions
 predictions = model.predict(X_test)
 predictions = (predictions > 0.5).astype(int)
+
+"""## Using ML model MLP"""
+
+import pandas as pd
+from sklearn.preprocessing import StandardScaler
+from sklearn.model_selection import train_test_split
+from sklearn.neural_network import MLPClassifier
+from sklearn.metrics import classification_report, accuracy_score
+
+# Load and prepare data
+data = pd.read_csv('your_data.csv')
+X = data.iloc[:, 1:-1].values
+y = data.iloc[:, -1].values
+
+# Normalize features
+scaler = StandardScaler()
+X_scaled = scaler.fit_transform(X)
+
+# Split data
+X_train, X_test, y_train, y_test = train_test_split(X_scaled, y, test_size=0.2, random_state=42)
+
+# Define MLP model
+model = MLPClassifier(hidden_layer_sizes=(64, 32), activation='relu', solver='adam', max_iter=50, random_state=42)
+
+# Train model
+model.fit(X_train, y_train)
+
+# Evaluate model
+y_pred = model.predict(X_test)
+accuracy = accuracy_score(y_test, y_pred)
+report = classification_report(y_test, y_pred)
+
+print(f'Accuracy: {accuracy}')
+print('Classification Report:')
+print(report)
+
+# Make predictions
+predictions = model.predict(X_test)
+print(predictions)
