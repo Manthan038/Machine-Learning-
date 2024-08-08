@@ -83,3 +83,281 @@ print(report)
 # Make predictions
 predictions = model.predict(X_test)
 print(predictions)
+
+import numpy as np
+import pandas as pd
+from scipy.optimize import curve_fit
+import matplotlib.pyplot as plt
+
+# Define the curve function
+def curve_function(x, m, a):
+    return m * np.exp(-a * x)
+
+# Example data
+data = pd.DataFrame({
+    'A': [0.657, 0.7, 0.75, 0.85, 0.9, 0.95, 1.00, 1.05],
+    'B': [0.15172, 0.1381, 0.11555, 0.10854, 0.05333, 0.026, -6.68e-05, -0.0212, -0.03405]
+})
+
+# Fit the curve to the data
+popt, pcov = curve_fit(curve_function, data['A'], data['B'])
+m_fit, a_fit = popt
+
+# Calculate fitted values
+fitted_values = curve_function(data['A'], m_fit, a_fit)
+
+# Calculate residuals
+residuals = data['B'] - fitted_values
+
+# Plot the original data and the fitted curve
+plt.scatter(data['A'], data['B'], color='blue', label='Original Data')
+plt.plot(data['A'], fitted_values, color='red', label='Fitted Curve')
+plt.title('Original Data vs Fitted Curve')
+plt.xlabel('A')
+plt.ylabel('B')
+plt.legend()
+plt.show()
+
+# Print residuals
+print(f"Residuals: {residuals}")
+
+# Determine if the residuals exceed a threshold
+threshold = 0.01  # You can adjust this threshold based on your tolerance
+if any(abs(residuals) > threshold):
+    print("Does not follow the curve: 0")
+else:
+    print("Follows the curve: 1")
+
+import numpy as np
+import pandas as pd
+from scipy.optimize import curve_fit
+import matplotlib.pyplot as plt
+
+# Define the curve function
+def curve_function(x, m, a):
+    return m * np.exp(-a * x)
+
+# Example data (with the problematic point at A = 0.8 removed)
+data = pd.DataFrame({
+    'A': [ 0.85, 0.9, 0.95, 1.00, 1.05],
+    'B': [ 0.05333, 0.026, -6.68e-05, -0.0212, -0.03405]
+})
+
+# Fit the curve to the data
+popt, pcov = curve_fit(curve_function, data['A'], data['B'])
+m_fit, a_fit = popt
+
+# Calculate fitted values
+fitted_values = curve_function(data['A'], m_fit, a_fit)
+
+# Calculate residuals
+residuals = data['B'] - fitted_values
+
+# Sum of squared residuals
+ssr = np.sum(residuals**2)
+
+# Plot the original data and the fitted curve
+plt.scatter(data['A'], data['B'], color='blue', label='Original Data')
+plt.plot(data['A'], fitted_values, color='red', label='Fitted Curve')
+plt.title('Original Data vs Fitted Curve')
+plt.xlabel('A')
+plt.ylabel('B')
+plt.legend()
+plt.show()
+
+# Define a threshold for sum of squared residuals
+# This threshold needs to be set based on your specific data and tolerance
+threshold = 0.001  # Adjust this based on the scale of your data
+
+# Classification based on the sum of squared residuals
+if ssr < threshold:
+    print("Follows the curve: 1")
+else:
+    print("Does not follow the curve: 0")
+
+# Print the sum of squared residuals
+print(f"Sum of Squared Residuals: {ssr}")
+
+import numpy as np
+import pandas as pd
+from scipy.optimize import curve_fit
+import matplotlib.pyplot as plt
+
+# Define the curve function with a shift
+def curve_function(x, m, a, c):
+    return m * np.exp(-a * x) + c
+
+# Example data (with challenging values in 'B')
+data = pd.DataFrame({
+    'A': [0.657, 0.7, 0.75,0.8,0.85, 0.9, 1.00, 1.05],
+    #'B': [1.05172, 1.0381, 1.01555, 1.05333, 0.026, -6.68e-05, -0.0212, -0.03405]
+    'B': [0.17178,0.1559,0.13286,0.11242,0.09562,0.05735,-0.00082,-0.02805]
+})
+
+# Provide initial guesses for the parameters
+initial_guess = [1, 1, 0]  # Guesses for m, a, and c
+
+# Increase maxfev to allow more iterations
+try:
+    popt, pcov = curve_fit(curve_function, data['A'], data['B'], p0=initial_guess, maxfev=5000)
+except RuntimeError as e:
+    print("Curve fitting failed:", e)
+    popt = None
+
+if popt is not None:
+    m_fit, a_fit, c_fit = popt
+
+    # Calculate fitted values
+    fitted_values = curve_function(data['A'], m_fit, a_fit, c_fit)
+
+    # Calculate residuals
+    residuals = data['B'] - fitted_values
+
+    # Sum of squared residuals
+    ssr = np.sum(residuals**2)
+
+    # Plot the original data and the fitted curve
+    plt.scatter(data['A'], data['B'], color='blue', label='Original Data')
+    plt.plot(data['A'], fitted_values, color='red', label='Fitted Curve')
+    plt.title('Original Data vs Fitted Curve')
+    plt.xlabel('A')
+    plt.ylabel('B')
+    plt.legend()
+    plt.show()
+
+    # Print the fitted parameters and sum of squared residuals
+    print(f"Fitted Parameters: m={m_fit}, a={a_fit}, c={c_fit}")
+    print(f"Sum of Squared Residuals: {ssr}")
+
+    # Define a threshold for sum of squared residuals
+    threshold = 0.001  # Adjust this based on the scale of your data
+
+    # Classification based on the sum of squared residuals
+    if ssr < threshold:
+        print("Follows the curve: 1")
+    else:
+        print("Does not follow the curve: 0")
+
+import numpy as np
+import pandas as pd
+from scipy.optimize import curve_fit
+import matplotlib.pyplot as plt
+
+# Define the curve function with a shift
+def curve_function(x, m, a, c):
+    return m * np.exp(-a * x) + c
+
+# Example large dataset with repeated A values and varying B values
+data = pd.DataFrame({
+    'A': np.tile([0.657, 0.7, 0.75, 0.8, 0.85, 0.9, 0.95, 1.00, 1.05], 10),
+    'B': np.random.randn(90)  # Replace with actual data
+})
+
+# Define a function to process each group
+def process_group(group):
+    # Provide initial guesses for the parameters
+    initial_guess = [1, 1, 0]  # Guesses for m, a, and c
+
+    try:
+        popt, _ = curve_fit(curve_function, group['A'], group['B'], p0=initial_guess, maxfev=5000)
+        m_fit, a_fit, c_fit = popt
+        fitted_values = curve_function(group['A'], m_fit, a_fit, c_fit)
+        residuals = group['B'] - fitted_values
+        ssr = np.sum(residuals**2)
+
+        # Define a threshold for sum of squared residuals
+        threshold = 0.001  # Adjust this based on the scale of your data
+
+        # Classification based on the sum of squared residuals
+        return 1 if ssr < threshold else 0
+
+    except RuntimeError:
+        return 0  # If fitting fails, classify as not following the curve
+
+# Group the data by every 9 rows (since column A contains the same 9 values)
+grouped = data.groupby(np.arange(len(data)) // 9)
+
+# Apply the function to each group and get the results
+results = grouped.apply(process_group)
+
+# Print the classification results for each group
+print(results)
+
+# To visualize the last group
+last_group = grouped.get_group(len(grouped) - 1)
+plt.scatter(last_group['A'], last_group['B'], color='blue', label='Original Data')
+fitted_values = curve_function(last_group['A'], *curve_fit(curve_function, last_group['A'], last_group['B'], p0=initial_guess, maxfev=5000)[0])
+plt.plot(last_group['A'], fitted_values, color='red', label='Fitted Curve')
+plt.title('Original Data vs Fitted Curve for Last Group')
+plt.xlabel('A')
+plt.ylabel('B')
+plt.legend()
+plt.show()
+
+import numpy as np
+import pandas as pd
+from scipy.optimize import curve_fit
+import matplotlib.pyplot as plt
+
+# Define the curve function with a shift
+def curve_function(x, m, a, c):
+    return m * np.exp(-a * x) + c
+
+# Fixed A values corresponding to the columns
+A_values = np.array([0.657, 0.7, 0.75, 0.8, 0.85, 0.9, 0.95, 1.00, 1.05])
+
+# Example dataset where each row corresponds to the B values for the fixed A values
+data = pd.DataFrame({
+    'B1': [0.15172, 0.14000, 0.14567],   # Example data for row 1
+    'B2': [0.1381, 0.13567, 0.1321],
+    'B3': [0.11555, 0.12034, 0.1109],
+    'B4': [0.05333, 0.0521, 0.0556],
+    'B5': [0.026, 0.0278, 0.02345],
+    'B6': [-6.68e-05, 0.00012, -0.00123],
+    'B7': [-0.0212, -0.0201, -0.0221],
+    'B8': [-0.03405, -0.0332, -0.03456],
+    'B9': [-0.0400, -0.0390, -0.0410]
+})
+
+# Convert the DataFrame to a matrix of B values
+B_matrix = data.values
+
+# Function to classify each row
+def classify_row(B_values):
+    # Provide initial guesses for the parameters
+    initial_guess = [1, 1, 0]  # Guesses for m, a, and c
+
+    try:
+        # Fit the curve to the B values
+        popt, _ = curve_fit(curve_function, A_values, B_values, p0=initial_guess, maxfev=5000)
+        m_fit, a_fit, c_fit = popt
+        fitted_values = curve_function(A_values, m_fit, a_fit, c_fit)
+        residuals = B_values - fitted_values
+        ssr = np.sum(residuals**2)
+
+        # Define a threshold for sum of squared residuals
+        threshold = 0.001  # Adjust this based on the scale of your data
+
+        # Classification based on the sum of squared residuals
+        return 1 if ssr < threshold else 0
+
+    except RuntimeError:
+        return 0  # If fitting fails, classify as not following the curve
+
+# Apply the classification to each row
+results = np.apply_along_axis(classify_row, 1, B_matrix)
+
+# Print the classification results for each row
+print("Classification Results (1 = follows curve, 0 = does not follow curve):")
+print(results)
+
+# Visualize one of the rows to check the fit
+row_index = 0  # Change this to visualize different rows
+plt.scatter(A_values, B_matrix[row_index], color='blue', label='Original Data')
+fitted_values = curve_function(A_values, *curve_fit(curve_function, A_values, B_matrix[row_index], p0=[1, 1, 0], maxfev=5000)[0])
+plt.plot(A_values, fitted_values, color='red', label='Fitted Curve')
+plt.title(f'Original Data vs Fitted Curve for Row {row_index+1}')
+plt.xlabel('A')
+plt.ylabel('B')
+plt.legend()
+plt.show()
