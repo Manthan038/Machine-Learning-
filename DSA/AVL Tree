@@ -1,0 +1,137 @@
+// Online C++ compiler to run C++ program online
+#include <bits/stdc++.h>
+using namespace std;
+
+class node {
+    public:
+    int value;
+    int height;
+    node* left, *right;
+    node(int v){
+          this->value = v;
+          this->left =this->right= nullptr;
+          this->height = 1;
+      }
+};
+
+class tree {
+    node* root;
+    public:
+      tree(int val) {
+          root = new node(val);
+      }
+      
+      void insert(int val){
+           root = insert_( root, val);
+      }
+      
+      void display(){
+          display_(root);
+      }
+      
+      void get_height(){
+          cout<<"\nheight is "<<height_(root)<<"\n";
+      }
+      
+      private:
+         node* insert_(node* head, int val){
+             if (head == nullptr) {
+                 head = new node(val);
+                 return head;
+             }
+             if (head->value > val) {
+                 head->left = insert_(head->left,val);
+             } else {
+                 head->right = insert_(head->right,val);
+             }
+             
+             head->height = max(height_(head->left),height_(head->right)) + 1;
+             return rotate(head);
+         }
+         
+         
+         node* rotate(node *root) {
+             // left heavy 
+             if ( height_(root->left) - height_(root->right) >= 2) {
+                   if (height_(root->left->left) - height_(root->left->right) >= 1) {
+                       // L L case
+                       return rightRotate(root);
+                   } 
+                   if (height_(root->left->left) - height_(root->left->right) <= -1) {
+                       // L R rotate
+                       root->left = leftRotate(root->left);
+                       return rightRotate(root);
+                   }
+                 
+             }
+             
+             // right heavy
+             if (height_(root->left) - height_(root->right) <= -2) {
+                 
+                  if (height_(root->right->left) - height_(root->right->right) <= -1) {
+                      
+                      /// RR
+                      return leftRotate(root);
+                  } 
+                   if (height_(root->right->left) - height_(root->right->right) >= 1) {
+                      root->right = rightRotate(root->right);
+                      return leftRotate(root);
+                  }
+                 
+             }
+             
+             return root;
+         }
+         
+         
+         //R - Rotate
+         node *rightRotate(node *root){
+             node *p = root;
+             node *c = root->left;
+             node *t3 = c->right;
+             c->right = p;
+             p->left = t3;
+             
+             p->height = max(height_(p->left), height_(p->right)) + 1;
+             c->height = max(p->height,height_(c->left)) +1;
+             return c;
+             
+         }
+         
+         //L-Rotate
+         node *leftRotate(node *root) {
+             node *p = root;
+             node *c = root->right;
+             node *t = c->left;
+             c->left = p;
+             p->right = t;
+             p->height = max(height_(p->left), height_(p->right))+1;
+             c->height = max(p->height,height_(c->right)) +1;
+             return c;
+         }
+         
+         void display_(node *root){
+             if (root == nullptr) return;
+             display_(root->left);
+             cout<<root->value<<" ";
+             display_(root->right);
+         }
+         
+         int height_(node *root){
+             if (root == nullptr) return 0;
+             return root->height;
+         }
+};
+
+
+int main() {
+   
+    tree obj(1);
+    for(int i = 2 ; i < 15; i++){
+        obj.insert(i);
+    }
+    
+    obj.display();
+    obj.get_height();
+    return 0;
+}
